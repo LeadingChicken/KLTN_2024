@@ -1,0 +1,76 @@
+﻿Atomic Fact,Label,Reason
+Johnny Depp tên đầy đủ là John Christopher Depp II.,Supported,"Nhãn: Supported  
+Lí do: Thông tin ""Johnny Depp tên đầy đủ là John Christopher Depp II"" là đúng và được xác nhận trong thông tin cung cấp.  
+Đoạn thông tin: ""John Christopher Depp II sinh ngày 9 tháng 6 năm 1963 tại Owensboro, Kentucky..."""
+Johnny Depp sinh ngày 9 tháng 6 năm 1963.,Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin về ngày sinh của Johnny Depp là sai và không thể xác minh trong đoạn thông tin đã cung cấp, vì đoạn văn chỉ nói về Isaac Newton và không đề cập đến Johnny Depp.  
+Đoạn thông tin: Không có thông tin nào liên quan đến Johnny Depp trong văn bản cung cấp."
+"Johnny Depp sinh tại Owensboro, Kentucky, Hoa Kỳ.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về nơi sinh của Johnny Depp không liên quan đến nội dung về Winston Churchill và không được đề cập trong đoạn văn cung cấp.  
+Đoạn thông tin: Không có đoạn thông tin nào trong văn bản đề cập đến Johnny Depp hoặc nơi sinh của ông."
+Johnny Depp là một diễn viên nổi tiếng.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Johnny Depp không liên quan đến nội dung cung cấp, mà chỉ tập trung vào Leonardo DiCaprio và sự nghiệp của anh. Không có thông tin nào trong đoạn văn nói về Johnny Depp.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Johnny Depp."
+Johnny Depp là một nhà sản xuất nổi tiếng.,Unsupported,"Nhãn: Unsupported  
+Lí do: Mặc dù Johnny Depp đã tham gia vào việc sản xuất phim thông qua công ty của mình, Infinitum Nihil, thông tin không xác nhận rằng ông là một ""nhà sản xuất nổi tiếng"". Thông tin chỉ đề cập đến việc ông đồng sản xuất một số bộ phim mà không khẳng định vị thế nổi tiếng trong vai trò nhà sản xuất.  
+Đoạn thông tin: ""Sau đó vào năm 2011, Depp phát hành hai dự án đầu tiên do công ty của anh, Infinitum Nihil đồng sản xuất."""
+Johnny Depp là một nhạc sĩ nổi tiếng.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Atomic fact này không liên quan đến thông tin về Freddie Mercury, người được đề cập trong ngữ cảnh. Thực tế, Johnny Depp không phải là nhân vật chính trong đoạn thông tin mà chúng tôi có, và không có thông tin nào trong đoạn văn nói về ông.  
+Đoạn thông tin: ""Freddie Mercury (tên khai sinh là Farrokh Bulsara; 5 tháng 9 năm 1946 – 24 tháng 11 năm 1991) là một nam ca sĩ, nhạc sĩ, nhà sản xuất âm nhạc người Anh."""
+Johnny Depp được biết đến với nhiều vai diễn ấn tượng trong các bộ phim điện ảnh.,Supported,"Nhãn: Supported  
+Lí do: Thông tin về việc Johnny Depp được biết đến với nhiều vai diễn ấn tượng trong các bộ phim điện ảnh được xác nhận qua các mô tả về sự nghiệp diễn xuất của ông, trong đó nêu rõ những vai diễn đáng chú ý và sự thành công của ông trong lĩnh vực điện ảnh.  
+Đoạn thông tin: ""Trong những năm 1990, Depp chủ yếu đóng phim độc lập, thường đóng những nhân vật lập dị. Chúng bao gồm What's eat Gilbert Grape (1993), Benny and Joon (1993), Dead Man (1995), Donnie Brasco (1997), và Fear and Loathing in Las Vegas (1998). Depp cũng bắt đầu hợp tác với đạo diễn Tim Burton, đóng vai chính trong Edward Scissorhands (1990), Ed Wood (1994) và Sleepy Hollow (1999). Trong những năm 2000, Depp trở thành một trong những ngôi sao điện ảnh thành công nhất về mặt thương mại khi thủ vai thuyền trưởng Jack Sparrow trong loạt phim ăn khách Cướp biển vùng Caribe (2003–nay)."""
+Johnny Depp bắt đầu sự nghiệp diễn xuất vào đầu thập niên 1980.,Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin cho rằng Johnny Depp bắt đầu sự nghiệp diễn xuất vào đầu thập niên 1980 là sai, vì trong đoạn thông tin không có bất kỳ tài liệu nào xác nhận điều đó. Thực tế, thông tin chỉ đề cập đến việc Depp bắt đầu chọn vai diễn thú vị hơn sau khi trải qua những trải nghiệm ở 21 Jump Street và bộ phim đầu tiên của anh vào năm 1990 là ""Cry-Baby"".  
+Đoạn thông tin: ""Vỡ mộng với những trải nghiệm của mình khi là một thần tượng tuổi teen trong 21 Jump Street, Depp bắt đầu chọn những vai diễn mà anh thấy thú vị hơn là những vai anh nghĩ sẽ thành công ở phòng vé. Bộ phim phát hành đầu tiên của anh vào năm 1990 là Cry-Baby của John Waters..."""
+"Johnny Depp có vai diễn trong bộ phim truyền hình ""21 Jump Street"".",Unsupported,"Nhãn: Unsupported  
+Lí do: Không có thông tin nào trong đoạn văn cho thấy Johnny Depp có vai diễn trong bộ phim truyền hình ""21 Jump Street"". Đoạn văn chỉ đề cập đến việc Depp và các bạn diễn của 21 Jump Street đã thể hiện lại vai diễn của họ trong các vai khách mời trong bộ phim truyện chuyển thể, nhưng không có thông tin nào xác nhận rằng Depp có vai diễn trong phiên bản truyền hình gốc.  
+Đoạn thông tin: ""Năm đó, anh và các bạn diễn của 21 Jump Street là Peter DeLuise và Holly Robinson đã thể hiện lại vai diễn của họ trong các vai khách mời trong bộ phim truyện chuyển thể của loạt phim."""
+Sự nghiệp của Johnny Depp bùng nổ sau khi tham gia vào các bộ phim điện ảnh.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về sự nghiệp của Johnny Depp không có trong đoạn văn bản đã cung cấp, mà chỉ nói về Leonardo DiCaprio. Do đó, không có cách nào để xác nhận hay phủ nhận thông tin về Johnny Depp dựa trên ngữ cảnh này.  
+Đoạn thông tin: N/A (Không có thông tin liên quan đến Johnny Depp trong đoạn văn bản)"
+"Johnny Depp tham gia bộ phim ""Edward Scissorhands"" (1990).",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Johnny Depp và bộ phim ""Edward Scissorhands"" không có liên quan gì đến nội dung thông tin được cung cấp về Biden và chiến dịch bầu cử của Obama.  
+Đoạn thông tin: Không có đoạn thông tin nào trong văn bản đề cập đến Johnny Depp hay bộ phim ""Edward Scissorhands""."
+"Johnny Depp tham gia bộ phim ""Pirates of the Caribbean"" (2003).",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Johnny Depp và bộ phim ""Pirates of the Caribbean"" không được đề cập trong đoạn thông tin về Phạm Duy. Đoạn văn chỉ nói về cuộc đời, sự nghiệp và những hoạt động của Phạm Duy tại Việt Nam mà không liên quan gì đến Johnny Depp hay bộ phim đó.  
+Đoạn thông tin: <Không có đoạn thông tin nào liên quan đến Johnny Depp hay ""Pirates of the Caribbean"".>"
+"Johnny Depp tham gia bộ phim ""Sweeney Todd: The Demon Barber of Fleet Street"" (2007).",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Johnny Depp và bộ phim ""Sweeney Todd: The Demon Barber of Fleet Street"" không xuất hiện trong đoạn văn bản cung cấp, mà đoạn văn chỉ đề cập đến Taylor Swift và các hoạt động liên quan đến video âm nhạc và phim ảnh của cô.  
+Đoạn thông tin: ""Swift nhấn mạnh phim ảnh là thành phần sáng tạo quan trọng trong quá trình sáng tác âm nhạc. Cô luôn ẩn giấu những mạch câu chuyện phức tạp và các easter egg trong nhiều tác phẩm của mình..."" (và các đoạn khác về Taylor Swift)."
+"Vai diễn Jack Sparrow trong loạt phim ""Cướp Biển vùng Caribbean"" đã đưa Johnny Depp trở thành một trong những ngôi sao điện ảnh hàng đầu thế giới.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về vai diễn Jack Sparrow trong loạt phim ""Cướp Biển vùng Caribbean"" không liên quan đến nhân vật Võ Nguyên Giáp, mà chỉ đề cập đến sự nghiệp điện ảnh của Johnny Depp, điều này không được đề cập trong đoạn thông tin về Võ Nguyên Giáp.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Johnny Depp hay vai diễn Jack Sparrow trong tài liệu về Võ Nguyên Giáp."
+Johnny Depp cũng là một nhạc sĩ.,Supported,"Nhãn: Supported  
+Lí do: Thông tin ""Johnny Depp cũng là một nhạc sĩ"" được xác nhận là đúng trong đoạn văn cung cấp, nơi đề cập đến Depp là một nam diễn viên, nhà sản xuất điện ảnh và nhạc sĩ.  
+Đoạn thông tin: ""John Christopher Depp II (sinh ngày 9 tháng 6 năm 1963) là một nam diễn viên, nhà sản xuất điện ảnh và nhạc sĩ người Mỹ."""
+Johnny Depp đã tham gia vào nhiều dự án âm nhạc.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Johnny Depp không liên quan đến nhân vật Phạm Duy và không có trong ngữ cảnh cung cấp.  
+Đoạn thông tin: Không có thông tin nào liên quan đến Johnny Depp trong đoạn văn cung cấp."
+Johnny Depp từng hợp tác với nhiều nghệ sĩ nổi tiếng.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Johnny Depp không được đề cập trong đoạn văn cung cấp, mà chỉ có thông tin về Leonardo DiCaprio. Do đó, câu hỏi không liên quan đến nội dung đã cho.  
+Đoạn thông tin: (Không có thông tin liên quan đến Johnny Depp)"
+Johnny Depp là thành viên của ban nhạc Hollywood Vampires.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về việc Johnny Depp là thành viên của ban nhạc Hollywood Vampires không liên quan đến tiểu sử hoặc thông tin về Joseph Robinette Biden Jr. được cung cấp trong đoạn văn.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Johnny Depp hoặc ban nhạc Hollywood Vampires trong tài liệu về Joseph Robinette Biden Jr."
+Johnny Depp đã nhận được nhiều giải thưởng trong suốt sự nghiệp của mình.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Johnny Depp không có trong đoạn văn bản cung cấp, mà chỉ có thông tin về Winston Churchill.  
+Đoạn thông tin: Không có thông tin nào liên quan đến Johnny Depp trong văn bản."
+Johnny Depp đã nhận được ba giải Oscar.,Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin về việc Johnny Depp đã nhận được ba giải Oscar là không chính xác. Trong đoạn thông tin cung cấp, chỉ đề cập rằng Depp có các đề cử cho 3 giải Oscar, nhưng không nói rõ rằng ông đã nhận được giải thưởng này.  
+Đoạn thông tin: ""ông là người nhận được nhiều giải thưởng khác nhau, bao gồm giải Quả cầu vàng và Giải thưởng của Nghiệp đoàn Diễn viên Màn ảnh, cùng với các đề cử cho 3 giải Oscar và 2 giải BAFTA."""
+Johnny Depp đã nhận được nhiều giải Golden Globe.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Johnny Depp không liên quan đến nhân vật Churchill và không được đề cập trong đoạn thông tin cung cấp.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Johnny Depp trong nội dung được cung cấp."
+Johnny Depp gặp phải nhiều vấn đề cá nhân và pháp lý.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Johnny Depp không có trong đoạn văn cung cấp liên quan đến Stephen Hawking. Do đó, nó không liên quan đến ngữ cảnh được đưa ra.  
+Đoạn thông tin: Không có đoạn thông tin nào về Johnny Depp trong đoạn văn đã cho."
+Johnny Depp gặp phải các vụ kiện liên quan đến cuộc hôn nhân với nữ diễn viên Amber Heard.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Johnny Depp và vụ kiện liên quan đến cuộc hôn nhân với Amber Heard không có trong đoạn thông tin được cung cấp về Jolie. Đoạn văn chỉ nói về cuộc sống và các mối quan hệ của Angelina Jolie mà không đề cập đến Johnny Depp hay Amber Heard.  
+Đoạn thông tin: Không có thông tin nào liên quan đến Johnny Depp hoặc Amber Heard trong đoạn văn đã cung cấp."
+Johnny Depp được xem là một trong những diễn viên tài năng trong ngành công nghiệp điện ảnh.,Supported,"Nhãn: Supported  
+Lí do: Thông tin cho rằng Johnny Depp được xem là một trong những diễn viên tài năng trong ngành công nghiệp điện ảnh được hỗ trợ bởi nhiều thông tin trong đoạn văn mô tả sự nghiệp của ông, trong đó nhấn mạnh về việc ông đã nhận được nhiều giải thưởng và được khen ngợi bởi giới phê bình.  
+Đoạn thông tin: ""Trong suốt sự nghiệp của mình, ông là người nhận được nhiều giải thưởng khác nhau, bao gồm giải Quả cầu vàng và Giải thưởng của Nghiệp đoàn Diễn viên Màn ảnh, cùng với các đề cử cho 3 giải Oscar và 2 giải BAFTA."" và ""Anh nhận được lời khen từ giới phê bình với Finding Neverland (2004)."""
+Johnny Depp có sức ảnh hưởng lớn trong ngành công nghiệp điện ảnh.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Johnny Depp không được đề cập trong đoạn văn bản cung cấp, mà chỉ nói về Leonardo DiCaprio. Do đó, việc khẳng định về sức ảnh hưởng của Johnny Depp trong ngành công nghiệp điện ảnh là không liên quan đến ngữ cảnh.  
+Đoạn thông tin: ""Một số ấn phẩm truyền thông như People, Empire và Harper's Bazaar, đã liệt kê DiCaprio vào danh sách những nam diễn viên hấp dẫn nhất. [...] DiCaprio được Bộ trưởng Bộ Văn hóa Pháp trao tặng Huân chương Văn học Nghệ thuật Pháp hạng nhất [...] năm 2016, anh được tạp chí Time vinh danh là một trong 100 người có ảnh hưởng nhất trên thế giới."""

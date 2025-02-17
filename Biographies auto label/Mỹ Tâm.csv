@@ -1,0 +1,103 @@
+﻿Atomic Fact,Label,Reason
+"Mỹ Tâm, tên đầy đủ là Phạm Thị Mỹ Tâm.",Unsupported,"Nhãn: Unsupported  
+Lí do: Tên đầy đủ của Mỹ Tâm là ""Phan Thị Mỹ Tâm"", không phải ""Phạm Thị Mỹ Tâm"".  
+Đoạn thông tin: ""Phan Thị Mỹ Tâm (sinh ngày 16 tháng 1 năm 1981), thường được biết đến với nghệ danh Mỹ Tâm..."""
+Mỹ Tâm sinh ngày 16 tháng 1 năm 1981.,Supported,"Nhãn: Supported  
+Lí do: Thông tin về ngày sinh của Mỹ Tâm được xác nhận là đúng trong đoạn văn cung cấp.  
+Đoạn thông tin: ""Phan Thị Mỹ Tâm sinh ngày 16 tháng 1 năm 1981 tại Đà Nẵng."""
+"Mỹ Tâm sinh tại Đà Nẵng, Việt Nam.",Supported,"Nhãn: Supported  
+Lí do: Thông tin ""Mỹ Tâm sinh tại Đà Nẵng, Việt Nam"" được xác nhận là đúng và có trong tài liệu tham khảo từ Wikipedia.  
+Đoạn thông tin: ""Phan Thị Mỹ Tâm sinh ngày 16 tháng 1 năm 1981 tại Đà Nẵng."""
+Mỹ Tâm là một trong những ca sĩ nổi tiếng nhất tại Việt Nam.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Mỹ Tâm không được đề cập trong đoạn văn bản, vì vậy không có cơ sở nào để xác nhận hoặc phủ nhận thông tin này.  
+Đoạn thông tin: Không có thông tin liên quan đến Mỹ Tâm trong đoạn văn."
+Mỹ Tâm là một trong những nhạc sĩ nổi tiếng nhất tại Việt Nam.,Unsupported,"Nhãn: Unsupported  
+Lí do: Atomic fact này không được xác nhận trong thông tin cung cấp. Mặc dù Mỹ Tâm được công nhận là một nghệ sĩ có ảnh hưởng và có nhiều thành công trong sự nghiệp âm nhạc, thông tin cụ thể về việc cô là một trong những nhạc sĩ nổi tiếng nhất tại Việt Nam không được nêu rõ. Các thành tích và giải thưởng của cô chủ yếu liên quan đến ca sĩ, không nhấn mạnh vai trò của cô như một nhạc sĩ nổi tiếng.  
+Đoạn thông tin: ""Được mệnh danh là 'Nữ hoàng V-pop', nhiều tạp chí trong nước lẫn quốc tế công nhận cô là một trong những nghệ sĩ nhạc pop có ảnh hưởng nhất Việt Nam."""
+Mỹ Tâm là một trong những diễn viên nổi tiếng nhất tại Việt Nam.,Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin cho rằng ""Mỹ Tâm là một trong những diễn viên nổi tiếng nhất tại Việt Nam"" không được xác nhận trong thông tin cung cấp. Mặc dù Mỹ Tâm được đề cập là một nữ ca sĩ, nhạc sĩ, và nhà làm phim, thông tin không chỉ ra rằng cô là một trong những diễn viên nổi tiếng nhất, mà chỉ nhấn mạnh về sự nghiệp âm nhạc của cô.  
+Đoạn thông tin: ""Phan Thị Mỹ Tâm (sinh ngày 16 tháng 1 năm 1981), thường được biết đến với nghệ danh Mỹ Tâm, là một nữ ca sĩ kiêm nhạc sĩ sáng tác bài hát, diễn viên và nhà làm phim người Việt Nam."""
+Mỹ Tâm được biết đến với giọng hát nội lực.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin ""Mỹ Tâm được biết đến với giọng hát nội lực"" không được đề cập trực tiếp trong đoạn văn bản và không có thông tin nào xác nhận cô được biết đến vì giọng hát nội lực. Đoạn văn đề cập đến sự nghiệp, thành công và các giải thưởng của cô nhưng không nói rõ về phong cách hoặc đặc điểm giọng hát của cô.  
+Đoạn thông tin: Không có đoạn thông tin nào trong văn bản hỗ trợ cho thông tin này."
+Mỹ Tâm được biết đến với phong cách biểu diễn cuốn hút.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Atomic fact không được đề cập trong thông tin cung cấp về Mỹ Tâm. Mặc dù cô được mô tả là một nghệ sĩ có ảnh hưởng lớn và có thành công trong sự nghiệp âm nhạc, nhưng không có thông tin cụ thể nào xác minh rằng cô được biết đến với phong cách biểu diễn cuốn hút.  
+Đoạn thông tin: ""Mỹ Tâm nằm trong danh sách những nghệ sĩ thu âm bán đĩa nhạc chạy nhất tại Việt Nam, với doanh thu khoảng 2 triệu bản."" / ""Trong suốt sự nghiệp âm nhạc của mình, Mỹ Tâm giành được 6 giải Cống hiến, 1 giải Âm nhạc châu Âu của MTV, 11 lần liên tiếp nhận giải 'Ca sĩ được yêu thích nhất' và 3 năm liên tiếp nhận giải 'Gương mặt của năm' của Giải thưởng Làn Sóng Xanh."""
+Mỹ Tâm bắt đầu sự nghiệp ca hát từ khi còn là sinh viên.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Mỹ Tâm không được đề cập trong đoạn văn về nhân vật Phạm Duy. Đoạn văn chỉ nói về cuộc đời và sự nghiệp của Phạm Duy mà không có bất kỳ thông tin nào liên quan đến Mỹ Tâm.  
+Đoạn thông tin: Không có thông tin liên quan đến Mỹ Tâm trong đoạn văn đã cung cấp."
+Mỹ Tâm học tại Đại học Nghệ thuật Quân đội.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Mỹ Tâm không liên quan đến nội dung của đoạn văn cung cấp, mà đoạn văn chủ yếu nói về Võ Nguyên Giáp và các sự kiện trong chiến tranh Việt Nam. Không có bất kỳ thông tin nào đề cập đến Mỹ Tâm hoặc việc học tại Đại học Nghệ thuật Quân đội.  
+Đoạn thông tin: (Không có đoạn thông tin nào liên quan đến Mỹ Tâm trong văn bản)"
+"Mỹ Tâm tham gia cuộc thi ""Học sinh, sinh viên tài năng"" vào năm 1999.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về việc Mỹ Tâm tham gia cuộc thi ""Học sinh, sinh viên tài năng"" vào năm 1999 không được đề cập trong đoạn văn bản thông tin về nhân vật Phạm Duy. Do đó, thông tin này không liên quan đến ngữ cảnh và tiểu sử của Phạm Duy.  
+Đoạn thông tin: <Không có thông tin nào liên quan đến Mỹ Tâm trong đoạn văn đã cho.>"
+"Mỹ Tâm giành được giải thưởng trong cuộc thi ""Học sinh, sinh viên tài năng"".",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về việc Mỹ Tâm giành giải thưởng trong cuộc thi ""Học sinh, sinh viên tài năng"" không liên quan đến ngữ cảnh của nhân vật được đề cập, là Võ Nguyên Giáp. Không có thông tin nào trong đoạn văn cung cấp về Mỹ Tâm hay các giải thưởng liên quan đến cô.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Mỹ Tâm trong ngữ cảnh đã được cung cấp."
+"Album đầu tay của Mỹ Tâm có tên là ""Mỹ Tâm"".",Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin cho rằng album đầu tay của Mỹ Tâm có tên là ""Mỹ Tâm"" là không chính xác, vì tên album đầu tay của cô thực tế là ""Mãi yêu"".  
+Đoạn thông tin: ""Cô khởi nghiệp ca hát bằng album đầu tay Mãi yêu (2001)..."""
+Album đầu tay của Mỹ Tâm được phát hành vào năm 2001.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về album đầu tay của Mỹ Tâm không được đề cập trong đoạn văn cung cấp về Phạm Duy, mà chỉ nói về cuộc đời và sự nghiệp của ông. Không có thông tin nào liên quan đến Mỹ Tâm hoặc album của cô.  
+Đoạn thông tin: Không có thông tin nào trong đoạn văn đề cập đến Mỹ Tâm hoặc album của cô."
+Album đầu tay của Mỹ Tâm đã nhanh chóng đưa cô trở thành một ngôi sao trong làng nhạc Việt.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về album đầu tay của Mỹ Tâm và sự nổi tiếng của cô không được đề cập trong đoạn văn thông tin về Phạm Duy.  
+Đoạn thông tin: ""Ngày 1 tháng 5 năm 1951 đại gia đình Phạm Duy-Thái Hằng chia làm 3 nhóm từ Thanh Hóa 'dinh tê' về Hà Nội. Ngày 9 tháng 6 năm 1951 di cư (bằng máy bay) vào Nam, sinh sống tại Sài Gòn..."" (và các đoạn thông tin khác liên quan đến Phạm Duy)."
+Mỹ Tâm đã phát hành nhiều album thành công trong suốt sự nghiệp của mình.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Mỹ Tâm không có trong đoạn văn cung cấp, nên không thể xác minh hoặc liên quan đến sự nghiệp của Phạm Duy.  
+Đoạn thông tin: Không có thông tin liên quan đến Mỹ Tâm trong đoạn văn đã cho."
+Mỹ Tâm đã đạt được nhiều giải thưởng âm nhạc.,Supported,"Nhãn: Supported  
+Lí do: Thông tin về việc Mỹ Tâm đã đạt được nhiều giải thưởng âm nhạc được xác nhận từ các đoạn thông tin trong ngữ cảnh được cung cấp. Các giải thưởng và thành tựu âm nhạc của cô như giải ""Nữ ca sĩ xuất sắc nhất"", ""Ca sĩ của năm"", giải thưởng Mnet Asian Music Awards (MAMA) cho ""Nghệ sĩ châu Á xuất sắc nhất"" và các giải thưởng khác đều được nêu rõ.  
+Đoạn thông tin: ""....video giành chiến thắng chung cuộc với giải thưởng 300 triệu đồng và giải 'Nữ ca sĩ xuất sắc nhất' trong đêm trao giải vào ngày 15 tháng 1 năm 2012..."" ""....Mỹ Tâm lần thứ hai đem về giải 'Ca sĩ của năm'."" ""....Mỹ Tâm trở thành nghệ sĩ Việt đầu tiên đoạt giải thưởng Mnet Asian Music Awards (MAMA) cho 'Nghệ sĩ châu Á xuất sắc nhất' ('Best Asian Artist')."" ""....Mỹ Tâm giành chiến thắng tại hạng mục quan trọng 'Gương mặt của năm' và giải 'Ca sĩ được yêu thích nhất'."""
+Mỹ Tâm đã giành giải Cống hiến.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về việc Mỹ Tâm đã giành giải Cống hiến không liên quan gì đến nội dung thông tin về Võ Nguyên Giáp và các sự kiện trong cuộc kháng chiến chống Mỹ từ năm 1972 đến 1975.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Mỹ Tâm trong tài liệu về Võ Nguyên Giáp."
+Mỹ Tâm đã giành giải Mai Vàng.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về việc Mỹ Tâm giành giải Mai Vàng không được đề cập trong đoạn văn bản thông tin về Đại tướng Võ Nguyên Giáp. Thông tin này hoàn toàn không liên quan đến nhân vật được cung cấp.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Mỹ Tâm hoặc giải Mai Vàng trong văn bản."
+Mỹ Tâm đã giành giải Zing Music Awards.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Mỹ Tâm và giải Zing Music Awards không liên quan đến tiểu sử và thông tin được cung cấp về nhân vật Phạm Duy. Không có bất kỳ thông tin nào trong đoạn văn đề cập đến Mỹ Tâm hoặc giải thưởng âm nhạc nào.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Mỹ Tâm hoặc giải Zing Music Awards trong đoạn văn đã cho."
+Mỹ Tâm nổi tiếng với nhiều bản hit.,Supported,"Nhãn: Supported  
+Lí do: Atomic fact ""Mỹ Tâm nổi tiếng với nhiều bản hit"" được xác nhận bởi thông tin trong đoạn văn rằng Mỹ Tâm đã phát hành nhiều sản phẩm âm nhạc thành công về mặt chuyên môn và thương mại, và cô cũng nổi tiếng với một số ca khúc. Đoạn thông tin này khẳng định sự nổi tiếng và sự thành công của cô trong sự nghiệp âm nhạc.  
+Đoạn thông tin: ""Trong những năm còn lại của thập niên 2000, Mỹ Tâm phát hành một chuỗi các sản phẩm âm nhạc thành công về mặt chuyên môn và thương mại, bao gồm các album đề cử cho giải Cống hiến Hoàng hôn thức giấc (2005), Vút bay (2006), Trở lại (2008)... Bên cạnh việc tự sáng tác, cô còn hát các ca khúc của tác giả khác như 'Tóc nâu môi trầm', 'Họa mi tóc nâu', 'Ước gì', 'Hát với dòng sông', 'Xích lô' hay 'Cây đàn sinh viên'."""
+"Một trong những bản hit nổi tiếng của Mỹ Tâm là ""Họa mi tóc nâu"".",Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin về việc ""Họa mi tóc nâu"" là một bản hit nổi tiếng của Mỹ Tâm không được xác nhận trong đoạn thông tin cung cấp. Thay vào đó, đoạn văn chỉ đề cập đến ca khúc ""Tóc nâu môi trầm"" là một trong những ca khúc nổi tiếng của Mỹ Tâm.  
+Đoạn thông tin: ""Tóc nâu môi trầm cũng trở thành ca khúc gắn liền với tên tuổi của Mỹ Tâm kể từ đó."""
+"Một trong những bản hit nổi tiếng của Mỹ Tâm là ""Chuyện như chưa bắt đầu"".",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về bản hit nổi tiếng của Mỹ Tâm không liên quan đến thông tin về Phạm Duy, nhân vật được cung cấp trong ngữ cảnh.  
+Đoạn thông tin: ""Ca khúc đầu tay của Phạm Duy là Cô hái mơ, một ca khúc phổ từ thơ Nguyễn Bính. Tới năm 1944, ông cho ra đời bài Gươm tráng sĩ, một ca khúc gắn với sự tích hồ Hoàn Kiếm, và là ca khúc đầu tiên được ông viết cả lời lẫn nhạc."""
+"Một trong những bản hit nổi tiếng của Mỹ Tâm là ""Như một giấc mơ"".",Irrelevant,"Nhãn: Irrelevant  
+Lí do: ""Như một giấc mơ"" không được đề cập trong thông tin cung cấp, do đó không có cơ sở để xác nhận rằng đây là một trong những bản hit nổi tiếng của Mỹ Tâm. Thông tin chỉ nói đến một số album và bài hát khác của cô.  
+Đoạn thông tin: Không có đoạn thông tin nào đề cập đến ""Như một giấc mơ""."
+"Một trong những bản hit nổi tiếng của Mỹ Tâm là ""Đúng cũng thành sai"".",Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin ""Một trong những bản hit nổi tiếng của Mỹ Tâm là 'Đúng cũng thành sai'"" không được xác nhận trong đoạn thông tin cung cấp về Mỹ Tâm. Trong đoạn văn không có bất kỳ đề cập nào đến bài hát ""Đúng cũng thành sai"" hoặc rằng nó là một bản hit nổi tiếng của cô.  
+Đoạn thông tin: Toàn bộ đoạn thông tin cung cấp không đề cập đến bài hát này, chỉ liệt kê một số album và ca khúc khác mà Mỹ Tâm đã thể hiện."
+Mỹ Tâm đã tham gia diễn xuất.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Mỹ Tâm không được đề cập trong đoạn văn và không liên quan đến nhân vật Phạm Duy được mô tả.  
+Đoạn thông tin: Không có thông tin nào liên quan đến Mỹ Tâm trong đoạn văn."
+Mỹ Tâm đã có những vai diễn ấn tượng trong một số bộ phim.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin không đề cập đến việc Mỹ Tâm có những vai diễn ấn tượng trong các bộ phim. Nội dung chỉ nói về sự nghiệp âm nhạc của cô và một số sự kiện liên quan đến âm nhạc, không có thông tin nào liên quan đến diễn xuất hay các vai diễn của cô trong phim.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến vai diễn của Mỹ Tâm trong phim."
+Mỹ Tâm được biết đến với các hoạt động từ thiện.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Mỹ Tâm không được nhắc đến trong ngữ cảnh về Phạm Duy và sự nghiệp âm nhạc của ông. Do đó, câu hỏi về hoạt động từ thiện của Mỹ Tâm không liên quan đến thông tin đã được cung cấp.  
+Đoạn thông tin: Không có đoạn thông tin nào trong phần thông tin về Phạm Duy đề cập đến Mỹ Tâm hoặc các hoạt động từ thiện của cô."
+Mỹ Tâm đóng góp cho cộng đồng.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về việc Mỹ Tâm đóng góp cho cộng đồng không có liên quan gì đến đoạn thông tin đã cung cấp. Đoạn thông tin chủ yếu nói về các sự kiện và nhân vật lịch sử liên quan đến Việt Nam Quốc dân Đảng và các hoạt động chính trị trong thời kỳ kháng chiến, không đề cập đến Mỹ Tâm hoặc bất kỳ đóng góp nào của cô cho cộng đồng.  
+Đoạn thông tin: Không có đoạn thông tin nào trong văn bản cung cấp liên quan đến Mỹ Tâm."
+Mỹ Tâm là một nghệ sĩ tài năng.,Supported,"Nhãn: Supported  
+Lí do: Thông tin ""Mỹ Tâm là một nghệ sĩ tài năng"" được xác nhận bởi nhiều chi tiết trong đoạn văn, mô tả về năng khiếu âm nhạc của cô và những thành công mà cô đã đạt được trong sự nghiệp âm nhạc.  
+Đoạn thông tin: ""Mỹ Tâm sớm bộc lộ năng khiếu về âm nhạc và liên tiếp giành chiến thắng tại nhiều cuộc thi ca hát lớn nhỏ lúc còn ở độ tuổi thiếu niên."" và ""Mỹ Tâm nằm trong danh sách những nghệ sĩ thu âm bán đĩa nhạc chạy nhất tại Việt Nam, với doanh thu khoảng 2 triệu bản."""
+Mỹ Tâm là biểu tượng của sự nỗ lực và thành công trong ngành giải trí Việt Nam.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Mỹ Tâm không được đề cập trong đoạn văn cung cấp. Tất cả các thông tin chỉ liên quan đến Phạm Duy, sự nghiệp và các tác phẩm của ông trong thời kỳ Chiến tranh Việt Nam.  
+Đoạn thông tin: <Không có thông tin nào liên quan đến Mỹ Tâm trong đoạn văn đã cung cấp.>"
+Mỹ Tâm có một lượng fan hùng hậu.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin ""Mỹ Tâm có một lượng fan hùng hậu"" không được xác nhận trong đoạn văn cung cấp. Đoạn văn chỉ nói về sự nghiệp và thành tích của Mỹ Tâm mà không đề cập đến số lượng fan hay sự phổ biến cụ thể của cô.  
+Đoạn thông tin: Không có đoạn thông tin nào trong văn bản xác nhận về lượng fan của Mỹ Tâm."
+Mỹ Tâm được yêu mến không chỉ vì tài năng.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Mỹ Tâm không được đề cập trong đoạn văn bản, mà đoạn văn chỉ nói về Trịnh Công Sơn và các mối tình của ông.  
+Đoạn thông tin: Không có thông tin về Mỹ Tâm trong đoạn văn đã cung cấp."
+Mỹ Tâm được yêu mến vì tính cách thân thiện và gần gũi.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Mỹ Tâm không được nhắc đến trong đoạn thông tin về Trịnh Công Sơn. Do đó, việc nói rằng ""Mỹ Tâm được yêu mến vì tính cách thân thiện và gần gũi"" không có liên quan gì đến nhân vật mà đoạn văn đề cập, là Trịnh Công Sơn.  
+Đoạn thông tin: Không có thông tin nào về Mỹ Tâm trong đoạn văn cung cấp."

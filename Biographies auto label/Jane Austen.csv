@@ -1,0 +1,91 @@
+﻿Atomic Fact,Label,Reason
+Jane Austen là một trong những nhà văn nổi tiếng nhất trong văn học Anh.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Jane Austen không liên quan đến nhân vật Nguyễn Nhật Ánh, thông tin chỉ tập trung vào nhà văn người Việt Nam này và không đề cập đến Jane Austen hoặc văn học Anh.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Jane Austen trong nội dung cung cấp."
+Jane Austen được biết đến với những tác phẩm phản ánh sâu sắc xã hội và đời sống của tầng lớp trung lưu vào cuối thế kỷ 18 và đầu thế kỷ 19.,Supported,"Nhãn: Supported  
+Lí do: Thông tin về Jane Austen nói rõ rằng bà nổi tiếng với sáu cuốn tiểu thuyết lấy bối cảnh giới địa chủ trung lưu Anh vào cuối thế kỷ 18, và cốt truyện của Austen thường phản ánh tình cảnh phụ thuộc của người phụ nữ vào hôn nhân như là cứu cánh duy nhất để đảm bảo vị thế xã hội và lợi ích vật chất. Điều này cho thấy các tác phẩm của bà có sự phản ánh sâu sắc về xã hội và đời sống của tầng lớp trung lưu trong thời kỳ đó.  
+Đoạn thông tin: ""Jane Austen ... nổi tiếng với sáu cuốn tiểu thuyết lấy bối cảnh giới địa chủ trung lưu Anh vào cuối thế kỷ 18. Cốt truyện của Austen thường phản ánh tình cảnh phụ thuộc của người phụ nữ vào hôn nhân như là cứu cánh duy nhất để đảm bảo vị thế xã hội và lợi ích vật chất."""
+"Jane Austen sinh ngày 16 tháng 12 năm 1775 tại Steventon, Hampshire, Anh.",Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin về ngày sinh và địa điểm của Jane Austen là sai, vì trong đoạn thông tin cung cấp không có bất kỳ thông tin nào về Jane Austen, mà chỉ nói về Isaac Newton.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Jane Austen trong văn bản."
+Jane Austen sinh ra trong một gia đình có 8 người con.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Jane Austen không được đề cập trong đoạn văn bản về Albert Einstein. Do đó, câu hỏi không liên quan đến ngữ cảnh đã được cung cấp.  
+Đoạn thông tin: Không có thông tin về Jane Austen trong văn bản."
+Cha của Jane Austen là một linh mục.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Atomic fact không liên quan đến nhân vật Hồ Chí Minh và thông tin cung cấp về ông. Không có thông tin nào liên quan đến Jane Austen hoặc cha của cô trong đoạn văn đã cho.  
+Đoạn thông tin: Không có đoạn thông tin nào phản ánh điều đó trong văn bản."
+Mẹ của Jane Austen là một nội trợ.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Atomic fact ""Mẹ của Jane Austen là một nội trợ"" không có liên quan gì đến thông tin về Newton mà chỉ được cung cấp trong ngữ cảnh. Đoạn thông tin về Newton không đề cập đến Jane Austen hay mẹ của cô.  
+Đoạn thông tin: Không có thông tin nào liên quan đến Jane Austen hoặc mẹ của cô trong đoạn văn về Newton."
+Jane Austen bắt đầu viết từ khi còn rất trẻ.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Jane Austen không được đề cập trong ngữ cảnh về Isaac Newton, do đó không liên quan đến nội dung về nhân vật mà chúng tôi đang thảo luận.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Jane Austen trong văn bản cung cấp."
+Jane Austen đã viết nhiều tác phẩm trong suốt cuộc đời mình.,Supported,"Nhãn: Supported  
+Lí do: Thông tin cho rằng Jane Austen đã viết nhiều tác phẩm trong suốt cuộc đời mình được xác nhận là đúng dựa trên nguồn tham khảo từ Wikipedia, nơi nêu rõ rằng bà đã hoàn thành nhiều cuốn tiểu thuyết và các tác phẩm khác.  
+Đoạn thông tin: ""Với việc xuất bản Lý trí và tình cảm (1811), Kiêu hãnh và định kiến (1813), Trang viên Mansfield (1814), và Emma (1816), Austen đạt được một số thành công nhất định... Bà còn hoàn thành hai cuốn tiểu thuyết khác - Northanger Abbey (Tu viện Northanger) và Persuasion (Thuyết phục), đều được xuất bản sau khi bà qua đời vào năm 1818 - và một cuốn còn dang dở là Sanditon. Bà cũng để lại bản thảo ba tập truyện thanh thiếu niên, cuốn tiểu thuyết sử thi ngắn Lady Susan và cuốn tiểu thuyết chưa hoàn thành The Watsons (Gia đình Watson)."""
+Jane Austen xuất bản cuốn tiểu thuyết đầu tiên của mình vào năm 1811.,Supported,"Nhãn: Supported  
+Lí do: Thông tin về việc Jane Austen xuất bản cuốn tiểu thuyết đầu tiên của mình vào năm 1811 được xác nhận trong nguồn thông tin, cụ thể là cuốn ""Lý trí và tình cảm"".  
+Đoạn thông tin: ""Với việc xuất bản Lý trí và tình cảm (1811), Kiêu hãnh và định kiến (1813), Trang viên Mansfield (1814), và Emma (1816), Austen đạt được một số thành công nhất định nhưng do tác phẩm đều được xuất bản ẩn danh, tên tuổi bà hoàn toàn không được biết tới khi còn tại thế."""
+"Cuốn tiểu thuyết đầu tiên của Jane Austen là ""Sense and Sensibility"" (Lý trí và Tình cảm).",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Atomic fact ""Cuốn tiểu thuyết đầu tiên của Jane Austen là 'Sense and Sensibility'"" không liên quan đến thông tin về Mark Twain, nhân vật được cung cấp trong ngữ cảnh. Thông tin được yêu cầu không chứa bất kỳ dữ liệu nào về Jane Austen hoặc tác phẩm của bà.  
+Đoạn thông tin: Không có thông tin nào liên quan đến Jane Austen trong đoạn văn cung cấp."
+Jane Austen cho ra mắt nhiều tác phẩm nổi tiếng khác.,Supported,"Nhãn: Supported  
+Lí do: Jane Austen thực sự đã cho ra mắt nhiều tác phẩm nổi tiếng, như ""Lý trí và tình cảm,"" ""Kiêu hãnh và định kiến,"" ""Trang viên Mansfield,"" và ""Emma,"" cũng như các tác phẩm khác được xuất bản sau khi bà qua đời. Các tác phẩm này được công nhận và nổi tiếng trong văn học.  
+Đoạn thông tin: ""Với việc xuất bản Lý trí và tình cảm (1811), Kiêu hãnh và định kiến (1813), Trang viên Mansfield (1814), và Emma (1816), Austen đạt được một số thành công nhất định nhưng do tác phẩm đều được xuất bản ẩn danh, tên tuổi bà hoàn toàn không được biết tới khi còn tại thế."" và ""Bà còn hoàn thành hai cuốn tiểu thuyết khác - Northanger Abbey (Tu viện Northanger) và Persuasion (Thuyết phục), đều được xuất bản sau khi bà qua đời vào năm 1818 - và một cuốn còn dang dở là Sanditon."""
+"Các tác phẩm nổi tiếng khác của Jane Austen bao gồm ""Pride and Prejudice"" (Kiêu hãnh và Định kiến), ""Emma"", ""Mansfield Park"" và ""Northanger Abbey"".",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về các tác phẩm nổi tiếng của Jane Austen không liên quan đến nhân vật Isaac Newton và ngữ cảnh được cung cấp, mà chỉ nói về cuộc đời và sự nghiệp của Newton.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Jane Austen trong văn bản đã cung cấp."
+Tác phẩm của Jane Austen thường xoay quanh các mối quan hệ tình cảm và hôn nhân.,Supported,"Nhãn: Supported  
+Lí do: Thông tin về việc tác phẩm của Jane Austen thường xoay quanh các mối quan hệ tình cảm và hôn nhân được hỗ trợ bởi nội dung mô tả về các tác phẩm của bà, trong đó có các yếu tố tình cảm và hôn nhân nổi bật. Jane Austen đã được biết đến với việc châm biếm dòng tiểu thuyết tình cảm và thể hiện các mối quan hệ giữa các nhân vật.  
+Đoạn thông tin: ""Các tác phẩm của Austen đã châm biếm dòng tiểu thuyết tình cảm chủ đạo nửa sau thế kỷ 18 và góp phần dịch chuyển nền văn học Anh sang chủ nghĩa hiện thực thế kỷ 19."" và ""Theo nhà phê bình Keymer, trong Sense and Sensibility, Austen thể hiện những nhân vật có chiều sâu và động cơ phức tạp, mặc dù đây là một tác phẩm nhại tiểu thuyết diễm tình."""
+Tác phẩm của Jane Austen phản ánh những khó khăn mà phụ nữ phải đối mặt trong xã hội thời bấy giờ.,Irrelevant,"Nhãn: Irrelevant
+Lí do: Atomic fact đề cập đến tác phẩm của Jane Austen và những khó khăn mà phụ nữ gặp phải trong xã hội, nhưng trong đoạn thông tin về Newton không có bất kỳ thông tin nào liên quan đến Jane Austen hoặc các vấn đề của phụ nữ trong xã hội. Do đó, thông tin này không liên quan đến ngữ cảnh được cung cấp.
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Jane Austen hoặc khó khăn của phụ nữ trong xã hội trong thông tin về Newton."
+Jane Austen nổi bật với phong cách viết châm biếm.,Supported,"Nhãn: Supported  
+Lí do: Thông tin về phong cách viết châm biếm của Jane Austen được xác nhận trong đoạn văn đã cung cấp, nơi nêu rõ rằng tính châm biếm song song với tính hiện thực và phê bình xã hội đã khiến Austen được hoan nghênh và ca ngợi.  
+Đoạn thông tin: ""Tính châm biếm song song với tính hiện thực và phê bình xã hội đã khiến Austen được hoan nghênh và ca ngợi bởi cả công chúng và giới phê bình."""
+Jane Austen có sự phát triển nhân vật tinh tế.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Jane Austen không có liên quan gì đến nội dung của đoạn văn về Isaac Newton. Đoạn văn chỉ đề cập đến cuộc đời, sự nghiệp và các hoạt động của Newton, không nhắc đến bất kỳ thông tin nào về Jane Austen hay sự phát triển nhân vật của bà.  
+Đoạn thông tin: Không có thông tin liên quan trong đoạn văn về Newton."
+Jane Austen có khả năng quan sát sâu sắc về tâm lý con người.,Supported,"Nhãn: Supported  
+Lí do: Thông tin về khả năng quan sát sâu sắc về tâm lý con người của Jane Austen được hỗ trợ bởi các đoạn văn mô tả phong cách viết của bà, trong đó nhấn mạnh khả năng trình bày cảm xúc và suy nghĩ của nhân vật một cách tinh tế và chi tiết.  
+Đoạn thông tin: ""Austen là tiểu thuyết gia người Anh đầu tiên áp dụng thủ pháp tường thuật gián tiếp tự do, thông qua đó, bà có khả năng trình bày trực tiếp suy nghĩ của nhân vật với người đọc mà vẫn giữ được khả năng kiểm soát câu chuyện."" và ""Theo học giả Mary Lascelles, Austen là thiên tài xây dựng ngôn ngữ và hội thoại giữa các nhân vật: 'Rất ít tiểu thuyết gia có thể kỹ lưỡng hơn Jane Austen trong lời nói và suy nghĩ của các nhân vật.'"" "
+Cuộc sống cá nhân của Jane Austen khá kín đáo.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Atomic fact về cuộc sống cá nhân của Jane Austen không được đề cập trong đoạn thông tin được cung cấp. Đoạn văn chủ yếu nói về quan điểm xã hội, thực dân và khái niệm hạnh phúc của một nhân vật không được xác định rõ ràng, mà không liên quan đến Jane Austen.  
+Đoạn thông tin: ""Thay đổi bản tính con người như Mặc Tử, như Karl Marx muốn là chuyện không dễ một sớm một chiều. Thế giới còn những nước nhược tiểu nhiều tài nguyên thì còn bọn thực dân họ chỉ thay đổi chính sách thôi..."" (và các đoạn khác trong văn bản đều không đề cập đến Jane Austen)"
+Jane Austen không có nhiều sự kiện nổi bật trong cuộc sống.,Unsupported,"Nhãn: Unsupported  
+Lí do: Atomic fact này nói rằng Jane Austen không có nhiều sự kiện nổi bật trong cuộc sống, điều này không đúng với thông tin được cung cấp. Mặc dù có ít thông tin chi tiết về cuộc sống của bà, nhưng các tài liệu về Austen cho thấy bà có nhiều thành tựu và sự kiện quan trọng, đặc biệt là trong sự nghiệp văn học của bà. Các thông tin về sự nghiệp, như việc xuất bản các tiểu thuyết nổi tiếng và ảnh hưởng của chúng đến văn học, cho thấy rằng cuộc sống của bà có nhiều sự kiện nổi bật hơn là chỉ đơn thuần không có nhiều sự kiện.  
+Đoạn thông tin: ""Có rất ít thông tin về cuộc đời của Austen ngoại trừ một vài lá thư còn sót lại và những ghi chú của các thành viên trong gia đình bà."" và ""Danh tiếng của Austen đến sau khi bà qua đời, với sáu cuốn tiểu thuyết đã hoàn thành hầu như chưa khi nào ngừng tái bản."""
+Jane Austen đã trải qua những thăng trầm về tình cảm và sức khỏe.,Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin nói rằng Jane Austen đã trải qua những thăng trầm về tình cảm và sức khỏe không được hỗ trợ bởi các thông tin trong đoạn văn cung cấp. Mặc dù có đề cập đến lời cầu hôn và những khó khăn trong cuộc sống của bà sau cái chết của cha, không có thông tin cụ thể nào về sức khỏe của Austen hay những thăng trầm tình cảm mà bà thực sự trải qua.  
+Đoạn thông tin: ""Học giả người Anh Douglas Bush đã viết rằng Austen 'theo đuổi lý tưởng rằng tình yêu là mối gắn kết giữa hai vợ chồng... Tất cả các nữ anh hùng trong tiểu thuyết của bà..., tỷ lệ thuận với sự trưởng thành của họ, đều thấm thía ý nghĩa của tình yêu chân chính.' Một chi tiết trong Sense and Sensibility có thể được lấy cảm hứng từ chính cuộc đời Austen là khi Elinor Dashwood chiêm nghiệm rằng 'thứ tồi tệ nhất và vô phương nhất trong tất cả các tai họa, là một mối gắn kết suốt đời' với một người đàn ông không phù hợp."" và ""Cái chết đột ngột của ông Austen khiến Jane, Cassandra và mẹ rơi vào tình cảnh bấp bênh."""
+Jane Austen không bao giờ kết hôn.,Supported,"Nhãn: Supported  
+Lí do: Thông tin rằng Jane Austen không bao giờ kết hôn được xác nhận bởi nhiều đoạn văn trong tiểu sử của bà, cho thấy rằng mặc dù đã nhận lời cầu hôn từ Harris Bigg-Wither, nhưng bà đã rút lại lời chấp nhận và không có thông tin nào cho thấy bà đã kết hôn sau đó.  
+Đoạn thông tin: ""Vào tháng 12 năm 1802, Austen nhận được lời cầu hôn duy nhất được biết tới từ Harris Bigg-Wither... Đến sáng hôm sau, Austen nhận ra mình đã mắc sai lầm và rút lại lời chấp nhận."""
+Jane Austen sống cùng gia đình cho đến khi qua đời.,Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin ""Jane Austen sống cùng gia đình cho đến khi qua đời"" không chính xác vì Austen đã sống độc lập trong một thời gian dài và không phải lúc nào cũng sống cùng gia đình. Sau khi cha bà qua đời, bà và các chị em phải sống trong tình trạng bấp bênh, và đến năm 1809, bà đã chuyển đến sống tại Chawton với mẹ và chị gái, nhưng không có thông tin nào cho thấy bà đã sống cùng gia đình cho đến khi qua đời.  
+Đoạn thông tin: ""Cái chết đột ngột của ông Austen khiến Jane, Cassandra và mẹ rơi vào tình cảnh bấp bênh. Edward, James, Henry và Francis Austen (được gọi là Frank) đã cam kết cùng đóng góp những khoản hỗ trợ hàng năm cho mẹ và các em gái. Trong bốn năm tiếp theo, cuộc sống tằn tiện phản ánh tình hình tài chính eo hẹp của họ. Họ phải sống một thời gian trong các khu nhà trọ ở Bath trước khi rời thành phố vào tháng 6 năm 1805 để đi thăm viếng gia đình ở Steventon và Godmersham."""
+Jane Austen qua đời vào ngày 18 tháng 7 năm 1817.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về việc Jane Austen qua đời không liên quan đến thông tin đã cung cấp về Isaac Newton và không được đề cập trong đoạn văn đó.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Jane Austen trong phần thông tin về Isaac Newton."
+Jane Austen qua đời ở tuổi 41.,Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin ""Jane Austen qua đời ở tuổi 41"" không được xác nhận trong đoạn văn thông tin cung cấp, vì đoạn văn chỉ nói về Isaac Newton và không đề cập đến Jane Austen hay tuổi thọ của bà.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Jane Austen trong văn bản đã cho."
+Nguyên nhân cái chết của Jane Austen là do một căn bệnh không xác định.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về nguyên nhân cái chết của Jane Austen không liên quan đến thông tin được cung cấp về Isaac Newton. Đoạn văn chỉ cung cấp thông tin về cuộc đời và sự nghiệp của Newton, không đề cập đến Jane Austen hay nguyên nhân cái chết của bà.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Jane Austen trong văn bản về Isaac Newton."
+"Sau khi qua đời, tác phẩm của Jane Austen dần dần được công nhận và yêu thích.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin liên quan đến Jane Austen không có trong đoạn văn bản đã cung cấp, mà chỉ có thông tin về cuộc đời và sự nghiệp của Isaac Newton.  
+Đoạn thông tin: Không có thông tin liên quan đến Jane Austen trong tài liệu về Isaac Newton."
+"Ngày nay, Jane Austen được coi là một trong những nhà văn vĩ đại nhất của văn học Anh.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Jane Austen không liên quan đến nhân vật Nguyễn Nhật Ánh, mà chỉ đề cập đến một nhân vật khác trong văn học.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Jane Austen trong nội dung đã cung cấp."
+Ảnh hưởng của Jane Austen vẫn còn mạnh mẽ trong văn học và văn hóa hiện đại.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về ảnh hưởng của Jane Austen không được đề cập trong đoạn văn bản cung cấp về Newton. Văn bản chỉ nói về cuộc đời và sự nghiệp của Newton mà không liên quan đến Jane Austen hay ảnh hưởng của bà trong văn học và văn hóa hiện đại.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Jane Austen trong văn bản đã cho."
+"Các tác phẩm của Jane Austen đã được chuyển thể thành nhiều bộ phim, vở kịch và chương trình truyền hình.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về các tác phẩm của Jane Austen không có trong đoạn văn thông tin được cung cấp, mà chỉ đề cập đến các tác phẩm của tác giả Nguyễn Nhật Ánh.  
+Đoạn thông tin: Không có thông tin liên quan đến Jane Austen trong đoạn văn."
+Các tác phẩm của Jane Austen tiếp tục thu hút nhiều thế hệ độc giả.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin đề cập đến các tác phẩm của Jane Austen không được nhắc đến trong đoạn văn cung cấp về Mark Twain, do đó không liên quan đến nhân vật được mô tả.  
+Đoạn thông tin: Không có thông tin liên quan trong đoạn văn."

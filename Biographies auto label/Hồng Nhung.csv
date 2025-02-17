@@ -1,0 +1,82 @@
+﻿Atomic Fact,Label,Reason
+Hồng Nhung tên đầy đủ là Nguyễn Hồng Nhung.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin được đưa ra không liên quan đến nhân vật Xuân Quỳnh mà chỉ đề cập đến một nhân vật khác là Hồng Nhung. Trong đoạn thông tin về Xuân Quỳnh không có bất kỳ thông tin nào đề cập đến Hồng Nhung.  
+Đoạn thông tin: ""Xuân Quỳnh (6 tháng 10 năm 1942 – 29 tháng 8 năm 1988), tên đầy đủ là Nguyễn Thị Xuân Quỳnh, quê ở làng La Khê, quận Hà Đông (nay thuộc Hà Nội), là một nữ nhà thơ người Việt Nam."""
+Hồng Nhung sinh ngày 15 tháng 5 năm 1970.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về ngày sinh của Hồng Nhung không được đề cập trong đoạn văn bản cung cấp. Đoạn văn chỉ nói về sự trở về Việt Nam của ông, hoạt động âm nhạc, sức khỏe, cái chết và tang lễ của ông mà không liên quan gì đến ngày sinh của Hồng Nhung.  
+Đoạn thông tin: ""Tháng 5 năm 2005, ông chính thức trở về Việt Nam, mua nhà sống tại Quận 11, Thành phố Hồ Chí Minh cùng các con trai Duy Quang, Duy Cường. Tháng 7 cùng năm, lần đầu tiên kể từ năm 1975, 9 bài hát của ông được cấp phép phổ biến. Thời kỳ này ông vẫn hoạt động âm nhạc, tuy sức khỏe đã có dấu hiệu giảm sút, nhiều bệnh được phát hiện ra. Ngày 27 tháng 1 năm 2013, sau một thời gian nằm viện, ông qua đời, một tháng sau cái chết của con cả ông là ca sĩ Duy Quang. Tang lễ của ông được tổ chức tại nhà riêng và ông được an táng tại Công viên Nghĩa trang Bình Dương vào ngày 3 tháng 2 năm 2013."""
+"Hồng Nhung sinh tại Hà Nội, Việt Nam.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về việc Hồng Nhung sinh tại Hà Nội không liên quan đến thông tin về Trịnh Công Sơn, do đây là một nhân vật khác và không có thông tin nào về Hồng Nhung trong đoạn văn cung cấp.  
+Đoạn thông tin: Không có thông tin về Hồng Nhung trong đoạn văn."
+Hồng Nhung là một trong những ca sĩ nổi tiếng nhất trong nền âm nhạc Việt Nam.,Supported,"Nhãn: Supported  
+Lí do: Thông tin cho rằng Hồng Nhung là một trong những ca sĩ nổi tiếng nhất trong nền âm nhạc Việt Nam được xác nhận bởi các đoạn văn trong thông tin cung cấp, trong đó có nhắc đến việc Hồng Nhung là một nghệ sĩ có sức ảnh hưởng lớn và được công nhận là một trong bốn Diva Việt Nam. Điều này cho thấy cô có vị trí nổi bật trong nền âm nhạc Việt Nam.  
+Đoạn thông tin:  
+1. ""Hồng Nhung là một nghệ sĩ có sức ảnh hưởng lớn và được công nhận là một trong bốn Diva Việt Nam bên cạnh Thanh Lam, Mỹ Linh và Hà Trần.""  
+2. ""Hồng Nhung được công chúng biết đến khi tuổi đời còn trẻ, gây ấn tượng với một giọng hát đầy nội lực mà tinh tế, sáng và vang.""  
+3. ""Hồng Nhung từng thể hiện thành công những bài hát của nhiều nhạc sĩ nổi tiếng…"""
+Hồng Nhung có ảnh hưởng lớn trong nền âm nhạc Việt Nam.,Supported,"Nhãn: Supported  
+Lí do: Thông tin ""Hồng Nhung có ảnh hưởng lớn trong nền âm nhạc Việt Nam"" là chính xác và được xác nhận trong văn bản, nơi Hồng Nhung được mô tả là một nghệ sĩ có sức ảnh hưởng lớn và được công nhận là một trong bốn Diva Việt Nam. Điều này cho thấy sự đóng góp và tầm quan trọng của cô trong âm nhạc Việt Nam.  
+Đoạn thông tin: ""Hồng Nhung là một nghệ sĩ có sức ảnh hưởng lớn và được công nhận là một trong bốn Diva Việt Nam bên cạnh Thanh Lam, Mỹ Linh và Hà Trần."""
+Hồng Nhung nổi bật trong thể loại nhạc pop.,Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin cho rằng Hồng Nhung nổi bật trong thể loại nhạc pop không được xác nhận bởi các dữ liệu có sẵn trong ngữ cảnh, vì không có thông tin nào trong văn bản đề cập đến việc Hồng Nhung hoạt động nổi bật trong thể loại nhạc pop. Thay vào đó, thông tin nhấn mạnh rằng cô đã thành công trong việc đổi mới nhạc Trịnh và thể hiện nhiều bài hát của nhiều nhạc sĩ nổi tiếng.  
+Đoạn thông tin: ""Cô đã thành công trong việc đổi mới nhạc Trịnh từ những năm đầu thập niên 90."" và ""Hồng Nhung từng thể hiện thành công những bài hát của nhiều nhạc sĩ nổi tiếng như Văn Cao, Dương Thụ, Trần Tiến, Phú Quang, Quốc Trung, Thanh Tùng, Hồng Đăng, Từ Huy, Duy Thái, Trần Quang Lộc, Lã Văn Cường, Bảo Chấn, Bảo Phúc, Quốc Bảo, Huy Tuấn, Nguyễn Duy Hùng... nhưng thành công nhất vẫn là những nhạc phẩm của Trịnh Công Sơn."""
+Hồng Nhung nổi bật trong thể loại nhạc trữ tình.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin đề cập đến Hồng Nhung, nhưng trong đoạn văn không có thông tin nào liên quan đến cô mà chỉ nói về Trịnh Công Sơn và các tác phẩm của ông. Do đó, nhãn ""Irrelevant"" là phù hợp vì thông tin không liên quan đến nội dung đã cho.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Hồng Nhung trong văn bản đã cung cấp."
+Hồng Nhung bắt đầu sự nghiệp âm nhạc từ những năm 1990.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Hồng Nhung không được đề cập đến trong đoạn văn về Phạm Duy. Đoạn văn chỉ nói về cuộc đời và sự nghiệp của Phạm Duy, không có bất kỳ thông tin nào liên quan đến Hồng Nhung hay sự nghiệp âm nhạc của cô.  
+Đoạn thông tin: Không có thông tin nào liên quan đến Hồng Nhung trong văn bản về Phạm Duy."
+Hồng Nhung nhanh chóng trở thành một trong những giọng ca được yêu thích nhất.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Hồng Nhung không được đề cập trong đoạn văn cung cấp, do đó không thể xác nhận hay phủ nhận thông tin này.  
+Đoạn thông tin: Không có đoạn thông tin nào đề cập đến Hồng Nhung."
+Hồng Nhung có giọng hát trong trẻo.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về giọng hát của Hồng Nhung không liên quan đến nhân vật Trịnh Công Sơn, vì đoạn văn chỉ nói về Trịnh Công Sơn mà không đề cập đến Hồng Nhung.  
+Đoạn thông tin: Không có thông tin nào liên quan đến Hồng Nhung trong đoạn văn đã cung cấp."
+Hồng Nhung có kỹ thuật biểu diễn tốt.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Atomic fact ""Hồng Nhung có kỹ thuật biểu diễn tốt"" không được hỗ trợ bởi thông tin nào trong đoạn văn về Trịnh Công Sơn, vì không có bất kỳ thông tin nào đề cập đến Hồng Nhung hay kỹ thuật biểu diễn của cô.  
+Đoạn thông tin: Không có thông tin nào liên quan đến Hồng Nhung trong đoạn văn."
+Hồng Nhung có khả năng truyền tải cảm xúc qua từng bài hát.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Hồng Nhung không được đề cập trong đoạn văn bản cung cấp về Trịnh Công Sơn. Do đó, việc khẳng định về khả năng truyền tải cảm xúc của Hồng Nhung là không liên quan đến ngữ cảnh.  
+Đoạn thông tin: Không có thông tin nào đề cập đến Hồng Nhung trong đoạn văn."
+Nhiều ca khúc của Hồng Nhung đã trở thành hit.,Unsupported,"Nhãn: Unsupported  
+Lí do: Không có thông tin nào trong đoạn văn xác nhận rằng nhiều ca khúc của Hồng Nhung đã trở thành hit. Mặc dù có đề cập đến việc cô thể hiện thành công nhiều bài hát của các nhạc sĩ nổi tiếng và nhạc phẩm của Trịnh Công Sơn, nhưng không có bằng chứng cụ thể nào cho thấy những ca khúc đó đã trở thành hit.  
+Đoạn thông tin: ""Hồng Nhung từng thể hiện thành công những bài hát của nhiều nhạc sĩ nổi tiếng như Văn Cao, Dương Thụ, Trần Tiến, Phú Quang, Quốc Trung, Thanh Tùng, Hồng Đăng, Từ Huy, Duy Thái, Trần Quang Lộc, Lã Văn Cường, Bảo Chấn, Bảo Phúc, Quốc Bảo, Huy Tuấn, Nguyễn Duy Hùng... nhưng thành công nhất vẫn là những nhạc phẩm của Trịnh Công Sơn."""
+Nhiều ca khúc của Hồng Nhung được khán giả yêu mến.,Supported,"Nhãn: Supported  
+Lí do: Thông tin về việc nhiều ca khúc của Hồng Nhung được khán giả yêu mến là hợp lý và được xác nhận qua những câu mô tả tích cực về giọng hát và phong cách biểu diễn của cô. Có nhiều đoạn trong văn bản thể hiện sự yêu thích và ngưỡng mộ đối với Hồng Nhung từ khán giả và những người trong ngành.  
+Đoạn thông tin: ""Quả thật, nàng rất xứng đáng."" ""Tiếng hát Hồng Nhung được ông yêu thích là chuyện tự nhiên."" ""Hồng Nhung hát hay và cô còn cả tuổi trẻ trước mặt."" ""Hồng Nhung – một người bạn quý và cũng là ca sĩ mà tôi rất ngưỡng mộ - điều này làm tôi rất phấn khích."" ""Chị Nhung là người giỏi, làm nghề lâu năm nhưng mỗi lần xuất hiện vẫn gây được sức hút lớn với người xem."""
+Nhiều ca khúc của Hồng Nhung ghi dấu ấn trong lòng người nghe.,Supported,"Nhãn: Supported  
+Lí do: Thông tin ""Nhiều ca khúc của Hồng Nhung ghi dấu ấn trong lòng người nghe"" phù hợp với nội dung trong bài viết khi đề cập đến thành công của cô trong việc thể hiện các bài hát nổi tiếng và ảnh hưởng của cô trong âm nhạc. Điều này cho thấy các ca khúc của cô đã tạo được ấn tượng và ghi dấu trong lòng người nghe.  
+Đoạn thông tin: ""Hồng Nhung từng thể hiện thành công những bài hát của nhiều nhạc sĩ nổi tiếng như Văn Cao, Dương Thụ, Trần Tiến, Phú Quang, Quốc Trung, Thanh Tùng, Hồng Đăng, Từ Huy, Duy Thái, Trần Quang Lộc, Lã Văn Cường, Bảo Chấn, Bảo Phúc, Quốc Bảo, Huy Tuấn, Nguyễn Duy Hùng... nhưng thành công nhất vẫn là những nhạc phẩm của Trịnh Công Sơn."""
+Hồng Nhung tham gia nhiều dự án âm nhạc lớn.,Supported,"Nhãn: Supported  
+Lí do: Thông tin về việc Hồng Nhung tham gia nhiều dự án âm nhạc lớn được xác nhận bởi các thông tin trong đoạn văn mô tả về sự nghiệp của cô, nơi nêu rõ rằng cô tham gia vào nhiều hoạt động âm nhạc và chiến dịch.  
+Đoạn thông tin: ""Hồng Nhung cũng là một nghệ sĩ tích cực tham gia nhiều chiến dịch như trở thành đại biểu của Việt Nam lên tiếng về vấn đề bảo vệ loài tê giác, gấu; tham gia dự án âm nhạc chống nạn ấu dâm, các hoạt động thiện nguyện."""
+Hồng Nhung biểu diễn tại các sự kiện trong nước.,Supported,"Nhãn: Supported  
+Lí do: Thông tin Hồng Nhung biểu diễn tại các sự kiện trong nước được hỗ trợ bởi thông tin rằng cô đã thu âm bài hát đầu tiên và biểu diễn trong Đội nghệ thuật măng non Hà Nội. Điều này cho thấy cô đã tham gia các hoạt động nghệ thuật, bao gồm biểu diễn, khi còn trẻ.  
+Đoạn thông tin: ""Năm 11 tuổi, Hồng Nhung được chọn để thu âm bài hát đầu tiên 'Lời chào của em' tại Đài Tiếng nói Việt Nam và biểu diễn trong Đội nghệ thuật măng non Hà Nội."""
+Hồng Nhung biểu diễn tại các sự kiện ngoài nước.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin ""Hồng Nhung biểu diễn tại các sự kiện ngoài nước"" không được đề cập trong đoạn văn cung cấp và không có bằng chứng nào xác nhận điều này. Mặc dù Hồng Nhung là một nghệ sĩ nổi tiếng, nhưng không có thông tin cụ thể nào liên quan đến việc cô biểu diễn ở nước ngoài.  
+Đoạn thông tin: ""Hồng Nhung cũng là một nghệ sĩ tích cực tham gia nhiều chiến dịch như trở thành đại biểu của Việt Nam lên tiếng về vấn đề bảo vệ loài tê giác, gấu; tham gia dự án âm nhạc chống nạn ấu dâm, các hoạt động thiện nguyện."" "
+Hồng Nhung từng hợp tác với nhiều nhạc sĩ nổi tiếng.,Supported,"Nhãn: Supported  
+Lí do: Thông tin này được xác nhận là đúng dựa trên nguồn tham khảo từ Wikipedia, nơi nêu rõ rằng Hồng Nhung từng thể hiện thành công những bài hát của nhiều nhạc sĩ nổi tiếng.  
+Đoạn thông tin: ""Hồng Nhung từng thể hiện thành công những bài hát của nhiều nhạc sĩ nổi tiếng như Văn Cao, Dương Thụ, Trần Tiến, Phú Quang, Quốc Trung, Thanh Tùng, Hồng Đăng, Từ Huy, Duy Thái, Trần Quang Lộc, Lã Văn Cường, Bảo Chấn, Bảo Phúc, Quốc Bảo, Huy Tuấn, Nguyễn Duy Hùng... nhưng thành công nhất vẫn là những nhạc phẩm của Trịnh Công Sơn."""
+Hồng Nhung từng hợp tác với nhiều nhà sản xuất nổi tiếng.,Supported,"Nhãn: Supported  
+Lí do: Thông tin này được xác nhận bởi đoạn văn mô tả Hồng Nhung đã thể hiện thành công những bài hát của nhiều nhạc sĩ nổi tiếng, điều này ngụ ý rằng cô đã hợp tác với các nhà sản xuất và nhạc sĩ trong sự nghiệp âm nhạc của mình.  
+Đoạn thông tin: ""Hồng Nhung từng thể hiện thành công những bài hát của nhiều nhạc sĩ nổi tiếng như Văn Cao, Dương Thụ, Trần Tiến, Phú Quang, Quốc Trung, Thanh Tùng, Hồng Đăng, Từ Huy, Duy Thái, Trần Quang Lộc, Lã Văn Cường, Bảo Chấn, Bảo Phúc, Quốc Bảo, Huy Tuấn, Nguyễn Duy Hùng... nhưng thành công nhất vẫn là những nhạc phẩm của Trịnh Công Sơn."""
+Hồng Nhung tham gia vào các chương trình truyền hình thực tế về âm nhạc.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về việc Hồng Nhung tham gia vào các chương trình truyền hình thực tế về âm nhạc không được cung cấp trong đoạn văn bản. Trong thông tin có đề cập đến sự nghiệp và các hoạt động của Hồng Nhung, nhưng không có bất kỳ thông tin nào liên quan đến việc cô tham gia vào các chương trình truyền hình thực tế.  
+Đoạn thông tin: ""Hồng Nhung cũng là một nghệ sĩ tích cực tham gia nhiều chiến dịch như trở thành đại biểu của Việt Nam lên tiếng về vấn đề bảo vệ loài tê giác, gấu; tham gia dự án âm nhạc chống nạn ấu dâm, các hoạt động thiện nguyện."" (Không có thông tin về chương trình truyền hình thực tế)."
+Hồng Nhung thành công trong sự nghiệp ca hát.,Supported,"Nhãn: Supported  
+Lí do: Thông tin cho thấy Hồng Nhung đã thành công trong sự nghiệp ca hát, đặc biệt là trong việc đổi mới nhạc Trịnh và nhận được nhiều đề cử cho giải Cống hiến.  
+Đoạn thông tin: ""Cô đã thành công trong việc đổi mới nhạc Trịnh từ những năm đầu thập niên 90 và là người từng giành tám đề cử cho giải Cống hiến."""
+Hồng Nhung được biết đến như một người có tấm lòng nhân ái.,Supported,"Nhãn: Supported  
+Lí do: Thông tin về việc Hồng Nhung là một nghệ sĩ tích cực tham gia nhiều chiến dịch bảo vệ động vật và tham gia các hoạt động thiện nguyện cho thấy cô có tấm lòng nhân ái.  
+Đoạn thông tin: ""Hồng Nhung cũng là một nghệ sĩ tích cực tham gia nhiều chiến dịch như trở thành đại biểu của Việt Nam lên tiếng về vấn đề bảo vệ loài tê giác, gấu; tham gia dự án âm nhạc chống nạn ấu dâm, các hoạt động thiện nguyện."""
+Hồng Nhung thường xuyên tham gia vào các hoạt động từ thiện.,Supported,"Nhãn: Supported  
+Lí do: Thông tin trong atomic fact được xác nhận là đúng bởi vì đoạn văn đã đề cập rằng Hồng Nhung là một nghệ sĩ tích cực tham gia nhiều hoạt động thiện nguyện.  
+Đoạn thông tin: ""Hồng Nhung cũng là một nghệ sĩ tích cực tham gia nhiều chiến dịch như [...] các hoạt động thiện nguyện."""
+Hồng Nhung tham gia vào các hoạt động xã hội.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Không có thông tin nào trong đoạn văn đề cập đến việc Hồng Nhung tham gia vào các hoạt động xã hội. Tất cả thông tin đều liên quan đến sự nghiệp ca hát và các hoạt động âm nhạc của cô.  
+Đoạn thông tin: Không có đoạn thông tin nào trong nội dung đã cung cấp liên quan đến việc tham gia vào các hoạt động xã hội."
+Hồng Nhung đã để lại nhiều kỷ niệm đẹp trong lòng khán giả yêu nhạc Việt Nam.,Supported,"Nhãn: Supported  
+Lí do: Thông tin cho thấy Hồng Nhung là một nghệ sĩ có sức ảnh hưởng lớn và được công nhận là một trong bốn Diva Việt Nam, điều này ngụ ý rằng cô để lại nhiều kỷ niệm đẹp trong lòng khán giả yêu nhạc Việt Nam.  
+Đoạn thông tin: ""Hồng Nhung là một nghệ sĩ có sức ảnh hưởng lớn và được công nhận là một trong bốn Diva Việt Nam bên cạnh Thanh Lam, Mỹ Linh và Hà Trần."""

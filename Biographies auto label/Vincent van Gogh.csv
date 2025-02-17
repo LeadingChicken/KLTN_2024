@@ -1,0 +1,80 @@
+﻿Atomic Fact,Label,Reason
+Vincent van Gogh là một trong những họa sĩ nổi tiếng nhất trong lịch sử nghệ thuật.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Vincent van Gogh không được đề cập trong đoạn văn cung cấp về Phạm Duy và sự nghiệp âm nhạc của ông trong thời kỳ Chiến tranh Việt Nam. Do đó, thông tin này không liên quan đến ngữ cảnh đã cho.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Vincent van Gogh trong văn bản."
+"Vincent van Gogh sinh ngày 30 tháng 3 năm 1853 tại Groot-Zundert, Hà Lan.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Vincent van Gogh không liên quan đến nội dung cung cấp về Nguyễn Tất Thành. Không có bất kỳ thông tin nào trong đoạn văn bản nói về Vincent van Gogh, do đó atomic fact này không thể được xác nhận hoặc bác bỏ dựa trên nội dung đã cho.  
+Đoạn thông tin: Không có đoạn thông tin liên quan đến Vincent van Gogh trong tài liệu đã cung cấp."
+Vincent van Gogh sinh trong một gia đình có truyền thống nghệ thuật.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Vincent van Gogh không được đề cập trong đoạn văn cung cấp, do đó không có cơ sở nào để xác nhận hay phủ nhận thông tin này.  
+Đoạn thông tin: <Không có thông tin liên quan đến Vincent van Gogh trong đoạn văn>"
+Cha của Vincent van Gogh là một mục sư.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về cha của Vincent van Gogh không liên quan đến nhân vật Đặng Lê Nguyên Vũ mà đoạn văn đã cung cấp. Đoạn văn chỉ đề cập đến các hoạt động, dự án, và bộ sưu tập xe của ông Đặng Lê Nguyên Vũ mà không có thông tin nào về Vincent van Gogh hoặc gia đình ông.  
+Đoạn thông tin: Không có đoạn thông tin liên quan đến Vincent van Gogh trong tài liệu đã cung cấp."
+Mẹ của Vincent van Gogh là một nghệ sĩ nghiệp dư.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về mẹ của Vincent van Gogh không liên quan đến nội dung đã cung cấp, vì đoạn văn chỉ nói về Phạm Duy và không đề cập gì đến Vincent van Gogh hay gia đình của ông.  
+Đoạn thông tin: Không có thông tin nào trong đoạn văn đề cập đến Vincent van Gogh hoặc mẹ của ông."
+Vincent van Gogh bắt đầu sự nghiệp nghệ thuật của mình khi 27 tuổi.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Atomic fact này không liên quan đến thông tin về Võ Nguyên Giáp và không được đề cập trong đoạn văn bản cung cấp.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Vincent van Gogh trong văn bản về Võ Nguyên Giáp."
+Vincent van Gogh đã sáng tác hơn 2.100 tác phẩm trong suốt cuộc đời của mình.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Vincent van Gogh không liên quan đến nhân vật Phạm Duy và không có thông tin nào trong đoạn văn bản đề cập đến ông hay số lượng tác phẩm của ông.  
+Đoạn thông tin: Không có đoạn thông tin nào đề cập đến Vincent van Gogh."
+Vincent van Gogh đã sáng tác khoảng 860 bức tranh.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Vincent van Gogh không được đề cập trong đoạn văn bản cung cấp, mà chỉ nói về Isaac Newton và những đóng góp của ông. Do đó, thông tin về Vincent van Gogh không liên quan đến ngữ cảnh hiện tại.  
+Đoạn thông tin: ""Tôi không biết mình có thể xuất hiện với thế giới như thế nào, nhưng với bản thân tôi, tôi dường như chỉ giống như một cậu bé đang chơi trên bờ biển, và bản thân đột nhiên chuyển hướng và sau đó tìm thấy một viên sỏi nhẵn hơn hoặc một cái vỏ sò đẹp hơn bình thường, trong khi trước mắt tôi là một đại dương lớn chứa đựng tất cả sự thật chưa được khám phá."" (cùng với các thông tin khác về Newton)"
+Phong cách nghệ thuật của Vincent van Gogh đặc trưng bởi những màu sắc rực rỡ.,Unsupported,"Nhãn: Unsupported  
+Lí do: Trong đoạn thông tin cung cấp, không có bất kỳ sự xác nhận nào rằng phong cách nghệ thuật của Vincent van Gogh đặc trưng bởi những màu sắc rực rỡ. Trên thực tế, thông tin chỉ ra rằng vào những năm đầu sự nghiệp, Van Gogh đã tập trung vào các bức tranh ""trắng và đen"" và sau đó tiêu hủy các tác phẩm vì chúng thiếu sự sinh động và tươi mới. Điều này không hỗ trợ cho việc khẳng định rằng phong cách của ông đặc trưng bởi những màu sắc rực rỡ.  
+Đoạn thông tin: ""Dù sao thì Van Gogh vẫn tiếp tục nghề họa sĩ, ông cải thiện việc chiếu sáng cho xưởng vẽ và thử nghiệm với các chất liệu vẽ khác nhau. [...] Mùa xuân năm 1883, Van Gogh bắt đầu thực hiện các bức tranh phức tạp hơn, ngay khi Theo nhận xét rằng các tác phẩm đó thiếu sự sinh động và tươi mới, Vincent đã tiêu hủy chúng và tập trung vào sơn dầu."""
+Phong cách nghệ thuật của Vincent van Gogh đặc trưng bởi nét vẽ mạnh mẽ.,Supported,"Nhãn: Supported  
+Lí do: Thông tin về phong cách nghệ thuật của Vincent van Gogh được xác nhận là đúng, vì trong đoạn văn bản có nhắc đến rằng phong cách của ông đặc trưng bởi ""tông màu đậm và nét vẽ ấn tượng, bốc đồng và biểu cảm"". Điều này chứng minh rằng phong cách nghệ thuật của ông có những nét vẽ mạnh mẽ và ấn tượng.  
+Đoạn thông tin: ""Các tác phẩm nghệ thuật của ông, bao gồm khoảng 860 bức tranh sơn dầu, hầu hết đều được vẽ trong khoảng thời gian hai năm cuối đời. Chúng bao gồm tranh phong cảnh, tĩnh vật, chân dung và chân dung tự họa, đặc trưng bởi tông màu đậm và nét vẽ ấn tượng, bốc đồng và biểu cảm đã góp phần tạo nên nền tảng của nghệ thuật hiện đại."""
+Phong cách nghệ thuật của Vincent van Gogh đặc trưng bởi cảm xúc mãnh liệt.,Supported,"Nhãn: Supported  
+Lí do: Thông tin về phong cách nghệ thuật của Vincent Van Gogh được xác nhận là đúng, dựa trên sự miêu tả trong đoạn văn rằng phong cách của ông ""đặc trưng bởi tông màu đậm và nét vẽ ấn tượng, bốc đồng và biểu cảm"", cho thấy sự mãnh liệt và cảm xúc trong tác phẩm của ông.  
+Đoạn thông tin: ""Các tác phẩm của Van Gogh đặc trưng bởi tông màu đậm và nét vẽ ấn tượng, bốc đồng và biểu cảm đã góp phần tạo nên nền tảng của nghệ thuật hiện đại."""
+"Một trong những tác phẩm nổi tiếng nhất của Vincent van Gogh là ""Đêm đầy sao"" (Starry Night).",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về tác phẩm ""Đêm đầy sao"" của Vincent van Gogh không có trong đoạn văn cung cấp, và do đó không liên quan đến thông tin về Isaac Newton.  
+Đoạn thông tin: (Không có đoạn thông tin nào liên quan đến Vincent van Gogh hoặc tác phẩm của ông.)"
+"""Đêm đầy sao"" thể hiện cảnh đêm huyền ảo với những ngôi sao và bầu trời xoáy.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về ""Đêm đầy sao"" không liên quan đến nhân vật Phạm Duy và các tác phẩm âm nhạc của ông được đề cập trong đoạn thông tin. Không có thông tin nào trong bối cảnh đề cập đến một tác phẩm có tên ""Đêm đầy sao"" hay miêu tả cảnh đêm huyền ảo với những ngôi sao.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến ""Đêm đầy sao""."
+Vincent van Gogh gặp nhiều khó khăn trong suốt cuộc đời.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Vincent van Gogh không có trong đoạn văn bản cung cấp về Lê Công Vinh. Do đó, thông tin này không liên quan đến ngữ cảnh đã được đưa ra.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Vincent van Gogh trong nội dung đã cung cấp."
+Vincent van Gogh gặp vấn đề tâm lý.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Atomic fact ""Vincent van Gogh gặp vấn đề tâm lý"" không liên quan đến thông tin về Gandhi mà đoạn văn đã cung cấp. Đoạn văn chỉ đề cập đến Gandhi, các sự kiện liên quan đến cuộc đời, sự nghiệp, tưởng niệm và phê bình ông, mà không có bất kỳ thông tin nào về Vincent van Gogh hay vấn đề tâm lý của ông.  
+Đoạn thông tin: Không có thông tin liên quan về Vincent van Gogh trong đoạn văn cung cấp."
+Vincent van Gogh có mối quan hệ khó khăn với gia đình.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Vincent van Gogh không có trong đoạn văn cung cấp về Trịnh Công Sơn, mà chỉ nói về cuộc đời và mối tình của Trịnh Công Sơn. Do đó, việc đề cập đến Vincent van Gogh và mối quan hệ khó khăn của ông với gia đình là không liên quan đến ngữ cảnh được cung cấp.  
+Đoạn thông tin: Không có thông tin liên quan đến Vincent van Gogh trong đoạn văn."
+Vincent van Gogh đã phải trải qua nhiều lần nhập viện tâm thần.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Vincent van Gogh không được đề cập trong đoạn văn bản cung cấp, mà chỉ có thông tin liên quan đến Barack Obama và sự nghiệp chính trị của ông. Do đó, việc đề cập đến Vincent van Gogh là không liên quan đến ngữ cảnh.  
+Đoạn thông tin: Không có thông tin nào về Vincent van Gogh trong đoạn văn đã cung cấp."
+Vincent van Gogh có một mối quan hệ phức tạp với người em trai Theo.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về mối quan hệ giữa Vincent van Gogh và em trai Theo không được đề cập trong đoạn văn bản cung cấp về Lê Công Vinh.  
+Đoạn thông tin: Không có thông tin liên quan đến Vincent van Gogh hoặc mối quan hệ với Theo trong tài liệu về Lê Công Vinh."
+Người em trai Theo của Vincent van Gogh luôn ủng hộ ông về tài chính.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về người em trai Theo của Vincent van Gogh và sự ủng hộ tài chính của ông đối với Vincent không được đề cập trong đoạn văn thông tin đã cung cấp. Do đó, nó không liên quan đến ngữ cảnh.  
+Đoạn thông tin: Không có thông tin nào trong đoạn văn về Vincent van Gogh hoặc người em trai Theo."
+Người em trai Theo của Vincent van Gogh luôn ủng hộ ông về tinh thần.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về người em trai Theo của Vincent van Gogh không liên quan đến nội dung cung cấp về Trịnh Công Sơn, không có thông tin nào trong đoạn văn nói về Vincent van Gogh hoặc em trai của ông.  
+Đoạn thông tin: Không có thông tin nào liên quan đến Vincent van Gogh trong đoạn văn cung cấp."
+Vincent van Gogh qua đời vào ngày 29 tháng 7 năm 1890.,Supported,"Nhãn: Supported  
+Lí do: Thông tin về ngày mất của Vincent van Gogh được xác nhận là đúng và có thể tìm thấy trong nguồn thông tin Wikipedia được cung cấp.  
+Đoạn thông tin: ""Van Gogh không thành công về mặt thương mại, và việc ông tự sát ở tuổi 37 diễn ra sau nhiều năm vật lộn với trầm cảm."" và ""Ông qua đời hai ngày sau đó."" (đoạn này liên quan đến sự kiện tự sát và thời gian qua đời của ông)."
+Vincent van Gogh qua đời ở tuổi 37.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về tuổi thọ của Vincent van Gogh không liên quan đến thông tin được cung cấp về Nguyễn Du. Đoạn văn cung cấp thông tin chi tiết về cuộc đời và sự nghiệp của Nguyễn Du, không đề cập đến Vincent van Gogh hay bất kỳ thông tin nào liên quan đến ông.  
+Đoạn thông tin: (Không có đoạn thông tin nào liên quan đến Vincent van Gogh trong văn bản được cung cấp.)"
+Vincent van Gogh qua đời do tự sát.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về cái chết của Vincent van Gogh không có trong đoạn văn bản cung cấp về Napoléon. Đoạn văn chỉ nói về Napoléon và các chỉ trích liên quan đến ông, không đề cập đến Vincent van Gogh hay cái chết của ông.  
+Đoạn thông tin: ""Napoléon đã chấm dứt thời kì vô luật pháp và hỗn loạn hậu Cách mạng Pháp. Tuy nhiên, ông bị các đối thủ xem là một tên bạo chúa, một kẻ cướp ngôi. [...] Một cuộc thăm dò ý kiến xuất bản trên báo Le Figaro năm 2005 cho thấy gần 40% người Pháp coi ông là 'một tay độc tài đã dùng mọi cách để thỏa mãn sự thèm khát quyền lực của mình'."" (Không có thông tin về Vincent van Gogh)"
+Vincent van Gogh đã chiến đấu với bệnh tật tâm thần trong nhiều năm.,Supported,"Nhãn: Supported  
+Lí do: Thông tin về việc Vincent van Gogh đã chiến đấu với bệnh tật tâm thần trong nhiều năm được xác nhận trong đoạn văn nói về tình trạng bệnh lý của ông, đặc biệt là khi nêu rõ rằng tình trạng bệnh lý của Van Gogh ngày càng trầm trọng. Điều này cho thấy ông đã phải đối diện với các vấn đề sức khỏe tâm thần trong suốt thời gian dài.  
+Đoạn thông tin: ""Tình trạng bệnh lý của Van Gogh ngày càng trầm trọng, ngày 27 tháng 7 năm 1890, ở tuổi 37, người họa sĩ đã bước ra cánh đồng và tự bắn vào ngực bằng một khẩu súng lục."""
+Tác phẩm của Vincent van Gogh đã trở thành biểu tượng của nghệ thuật hiện đại sau khi ông qua đời.,Supported,"Nhãn: Supported  
+Lí do: Tác phẩm của Vincent van Gogh đã trở thành biểu tượng của nghệ thuật hiện đại sau khi ông qua đời, được xác nhận qua việc ông đã đạt được thành công rộng rãi về mặt phê bình, thương mại và phổ biến trong nhiều thập kỷ sau đó, và các tác phẩm của ông được nhớ đến như một trong những bức tranh đắt giá nhất thế giới.  
+Đoạn thông tin: ""Ông trở nên nổi tiếng sau khi tự tử và tồn tại trong trí tưởng tượng của công chúng như một thiên tài bị hiểu lầm, 'nơi hội tụ những bài diễn thuyết về sự điên rồ và sáng tạo'. Danh tiếng của ông bắt đầu phát triển vào đầu thế kỷ 20 khi các yếu tố trong phong cách hội họa của ông được kết hợp bởi Trường phái Dã thú và Chủ nghĩa biểu hiện Đức. Ông đã đạt được thành công rộng rãi về mặt phê bình, thương mại và phổ biến trong nhiều thập kỷ sau đó, ông được nhớ đến như một họa sĩ quan trọng nhưng có cuộc đời bi thảm, người có tính cách rắc rối là điển hình cho lý tưởng lãng mạn của người nghệ sĩ bị tra tấn.""  
+""Ngày nay, các tác phẩm của Van Gogh là một trong những bức tranh đắt giá nhất thế giới từng được bán và di sản của ông được vinh danh tại một bảo tàng mang tên ông, Bảo tàng Van Gogh ở Amsterdam, nơi lưu giữ bộ sưu tập tranh và bản vẽ của ông lớn nhất trên thế giới."""
+Vincent van Gogh được xem như một trong những nhân vật quan trọng nhất trong lịch sử nghệ thuật.,Supported,"Nhãn: Supported  
+Lí do: Vincent van Gogh được đánh giá là một trong những nhân vật nổi tiếng và có ảnh hưởng nhất trong lịch sử nghệ thuật phương Tây, điều này xác nhận rằng ông là một nhân vật quan trọng trong lĩnh vực nghệ thuật.  
+Đoạn thông tin: ""Vincent Willem Van Gogh ... là một họa sĩ hậu ấn tượng người Hà Lan, được đánh giá là một trong những nhân vật nổi tiếng và có ảnh hưởng nhất trong lịch sử nghệ thuật phương Tây."""

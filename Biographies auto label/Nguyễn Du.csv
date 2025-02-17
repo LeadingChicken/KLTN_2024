@@ -1,0 +1,106 @@
+﻿Atomic Fact,Label,Reason
+Nguyễn Du là một trong những nhà thơ lớn nhất của nền văn học Việt Nam.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Nguyễn Du không liên quan đến nội dung được cung cấp, bởi vì đoạn văn chỉ nói về Võ Nguyên Giáp và không đề cập đến Nguyễn Du hay bất kỳ thông tin nào về ông.  
+Đoạn thông tin: <Không có đoạn thông tin nào liên quan đến Nguyễn Du trong văn bản cung cấp.>"
+"Nguyễn Du nổi tiếng với tác phẩm ""Truyện Kiều"".",Supported,"Nhãn: Supported  
+Lí do: Thông tin ""Nguyễn Du nổi tiếng với tác phẩm 'Truyện Kiều'"" được xác nhận là đúng, vì trong đoạn văn đã nêu rõ rằng ""Tác phẩm Truyện Kiều của ông được xem là một kiệt tác văn học, một trong những thành tựu tiêu biểu nhất trong nền văn học trung đại Việt Nam."" Điều này chỉ ra rằng Nguyễn Du không chỉ nổi tiếng với tác phẩm này mà còn được công nhận về giá trị văn học của nó.  
+Đoạn thông tin: ""Tác phẩm Truyện Kiều của ông được xem là một kiệt tác văn học, một trong những thành tựu tiêu biểu nhất trong nền văn học trung đại Việt Nam."""
+Nguyễn Du sinh ra trong một gia đình quý tộc.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Nguyễn Du không được đề cập trong ngữ cảnh về Võ Nguyên Giáp, do đó không có cách nào để xác minh hay liên kết thông tin này với nhân vật đang được thảo luận.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Nguyễn Du trong văn bản cung cấp về Võ Nguyên Giáp."
+"Nguyễn Du sinh ra ở huyện Nghi Xuân, tỉnh Hà Tĩnh.",Supported,"Nhãn: Supported  
+Lí do: Thông tin về việc Nguyễn Du sinh ra ở huyện Nghi Xuân, tỉnh Hà Tĩnh được xác nhận trong đoạn văn đã cung cấp. Đoạn này nêu rõ rằng Nguyễn Du sinh ngày 23 tháng 11 năm Ất Dậu tại làng Tiên Điền, Nghi Xuân, Hà Tĩnh.  
+Đoạn thông tin: ""Nguyễn Du sinh ngày 23 tháng 11 năm Ất Dậu (tức ngày 3 tháng 1 năm 1766 theo lịch Gregory) tại làng Tiên Điền, Nghi Xuân, Hà Tĩnh."""
+Cuộc đời của Nguyễn Du trải qua nhiều biến cố.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về cuộc đời của Nguyễn Du không có trong đoạn văn cung cấp, mà đoạn văn chỉ nói về Võ Nguyên Giáp và các sự kiện liên quan đến ông. Do đó, thông tin về Nguyễn Du không liên quan đến ngữ cảnh.  
+Đoạn thông tin: Không có thông tin nào về Nguyễn Du trong đoạn văn."
+Cuộc đời của Nguyễn Du trải qua thời kỳ chiến tranh loạn lạc.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin đề cập đến Nguyễn Du, trong khi đoạn văn cung cấp chỉ nói về Nguyễn Ái Quốc, không có thông tin nào liên quan đến cuộc đời của Nguyễn Du hay thời kỳ chiến tranh loạn lạc trong bối cảnh của ông. Do đó, thông tin này không liên quan đến ngữ cảnh đã cung cấp.  
+Đoạn thông tin: <Không có đoạn thông tin nào liên quan đến Nguyễn Du trong văn bản cung cấp>"
+Cuộc đời của Nguyễn Du trải qua những năm tháng sống lưu vong.,Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin ""Cuộc đời của Nguyễn Du trải qua những năm tháng sống lưu vong"" không được xác nhận trong đoạn văn cung cấp. Thực tế, thông tin trong đoạn văn chủ yếu nói về sự nghiệp và các chức vụ mà Nguyễn Du đã đảm nhận, cùng với các sự kiện trong cuộc đời của ông, nhưng không đề cập đến việc ông sống lưu vong.  
+Đoạn thông tin: ""Nhờ thời kỳ đi giang hồ, Nguyễn Du đã thông thạo các ngôn ngữ Trung Quốc, nên chỉ mấy tháng sau thăng tri phủ Thường Tín, trấn Sơn Nam Thượng (nay thuộc Hà Nội), ông được đặc cách lên ải Nam Quan tiếp sứ nhà Thanh sang phong sắc cho vua Gia Long. [...] Năm Canh Thìn (1820), vua Gia Long qua đời, Nguyễn Phúc Đảm nối ngôi, tức vua Minh Mạng. Lúc này Nguyễn Du được cử đi làm chánh sứ sang nhà Thanh báo tang và cầu phong nhưng ông bị bệnh dịch tả chết ngày mồng 10 tháng 8 năm Canh Thìn (tức 16 tháng 9 năm 1820) hưởng thọ 54 tuổi."""
+Nguyễn Du được học hành chu đáo.,UnSupported,"Nhãn: UnSupported  
+Lí do: Trong đoạn thông tin không có bất kỳ đề cập nào đến việc Nguyễn Du được học hành chu đáo. Thay vào đó, thông tin chủ yếu tập trung vào cuộc đời và hoạt động cách mạng của Võ Nguyên Giáp. Do đó, thông tin về Nguyễn Du không có cơ sở xác thực trong ngữ cảnh này.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Nguyễn Du trong phần thông tin được cung cấp."
+Nguyễn Du thông thạo văn chương Hán.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Nguyễn Du không được đề cập trong đoạn văn cung cấp, và vì vậy không thể xác nhận việc ông có thông thạo văn chương Hán hay không.  
+Đoạn thông tin: Không có thông tin liên quan đến Nguyễn Du trong đoạn văn."
+Nguyễn Du có kiến thức sâu rộng về văn hóa.,Unsupported,"Nhãn: Unsupported  
+Lí do: Không có thông tin nào trong đoạn văn cung cấp bằng chứng xác thực rằng Nguyễn Du có kiến thức sâu rộng về văn hóa. Tài liệu chỉ đề cập đến các tác phẩm và nghiên cứu của ông mà không nói rõ về kiến thức của ông.  
+Đoạn thông tin: Không có đoạn thông tin nào trong văn bản xác nhận điều này."
+Nguyễn Du có kiến thức sâu rộng về triết học.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Trong đoạn thông tin cung cấp không có bất kỳ thông tin nào liên quan đến kiến thức của Nguyễn Du về triết học. Các thông tin chủ yếu tập trung vào tiểu sử, gia thế và các sự kiện trong cuộc đời của ông, không đề cập đến khả năng hay kiến thức về triết học.  
+Đoạn thông tin: ""Nguyễn Du (chữ Hán: 阮攸; 3 tháng 1 năm 1766 – 16 tháng 9 năm 1820) tên tự là Tố Như (素如), hiệu là Thanh Hiên (清軒), biệt hiệu là Hồng Sơn lạp hộ (鴻山獵戶), Nam Hải điếu đồ (南海釣屠), là một nhà thơ, nhà văn hóa lớn thời Lê mạt Nguyễn sơ ở Việt Nam. Ông được người Việt kính trọng tôn xưng là 'Đại thi hào dân tộc' và được UNESCO vinh danh là 'Danh nhân văn hóa thế giới'. Tác phẩm Truyện Kiều của ông được xem là một kiệt tác văn học, một trong những thành tựu tiêu biểu nhất trong nền văn học trung đại Việt Nam."""
+Nguyễn Du từng giữ nhiều chức vụ trong triều đình nhà Nguyễn.,Supported,"Nhãn: Supported  
+Lí do: Thông tin về việc Nguyễn Du giữ nhiều chức vụ trong triều đình nhà Nguyễn được xác nhận qua các đoạn văn trong thông tin cung cấp. Các chức vụ mà ông đã đảm nhận như tri huyện, tri phủ, Đông các học sĩ, và Cần chánh điện học sĩ cho thấy ông đã có một sự nghiệp quan trọng trong triều đình.  
+Đoạn thông tin:  
+- ""vua phong ngay tri huyện Phù Dung, phủ Khoái Châu, trấn Sơn Nam...""  
+- ""thăng tri phủ Thường Tín, trấn Sơn Nam Thượng (nay thuộc Hà Nội)""  
+- ""ông được thăng Đông các học sĩ, tước Du Đức hầu và vào nhậm chức ở kinh đô Phú Xuân.""  
+- ""ông được bổ chức Cai bạ (hàm Tứ phẩm) ở Quảng Bình.""  
+- ""ông được thăng Cần chánh điện học sĩ (chính Tam phẩm) và được cử làm chánh sứ sang nhà Thanh.""  
+- ""được thăng Lễ bộ hữu Tham tri (tòng Nhị phẩm)."""
+Nguyễn Du cũng trải qua giai đoạn khó khăn.,Unsupported,"Nhãn: Unsupported  
+Lí do: Không có thông tin nào trong đoạn văn cho thấy Nguyễn Du đã trải qua giai đoạn khó khăn. Các thông tin trong đoạn văn chủ yếu nói về sự nghiệp thành công và những vị trí cao trong triều đình mà Nguyễn Du đã đảm nhận.  
+Đoạn thông tin: ""Năm Quý Hợi (1803), khi vua Gia Long ra Bắc, Nguyễn Du từ Quỳnh Hải đem quân lương đi đón vua Gia Long, đến Phù Dung... Năm Ất Sửu (1805), ông được thăng Đông các học sĩ, tước Du Đức hầu và vào nhậm chức ở kinh đô Phú Xuân..."" (các đoạn này đều mô tả các thành công trong sự nghiệp của ông)."
+Giai đoạn khó khăn của Nguyễn Du diễn ra khi đất nước có nhiều biến động chính trị.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Atomic fact không liên quan đến nhân vật được đề cập trong đoạn thông tin, mà cụ thể là Hồ Cơ và Đại tướng Võ Nguyên Giáp. Thông tin về Nguyễn Du không được nhắc đến trong đoạn văn.  
+Đoạn thông tin: ""Nhà giáo Hồ Cơ nhận xét về Đại tướng Võ Nguyên Giáp như sau: 'Đất nước này nên cơ nên nghiệp, thứ nhất là do công của Chủ tịch Hồ Chí Minh, sau đó là Đại tướng Võ Nguyên Giáp...'"""
+"Tác phẩm ""Truyện Kiều"" được viết bằng thể thơ lục bát.",Supported,"Nhãn: Supported  
+Lí do: Thông tin cho biết rằng tác phẩm ""Truyện Kiều"" được viết bằng thể thơ lục bát được xác nhận là đúng trong đoạn thông tin về tác phẩm của Nguyễn Du.  
+Đoạn thông tin: ""Đoạn Trường Tân Thanh (Truyện Kiều) được viết bằng chữ Nôm, gồm 3.254 câu thơ theo thể lục bát."""
+"Tác phẩm ""Truyện Kiều"" kể về cuộc đời bất hạnh của nàng Kiều.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Atomic fact này không liên quan đến thông tin được cung cấp về Võ Nguyên Giáp, mà nó nói về tác phẩm văn học ""Truyện Kiều"", điều này không nằm trong ngữ cảnh của nhân vật được đề cập.  
+Đoạn thông tin: Không có đoạn thông tin nào trong văn bản cung cấp thông tin về ""Truyện Kiều""."
+"Tác phẩm ""Truyện Kiều"" là một câu chuyện đầy bi kịch.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về ""Truyện Kiều"" không được đề cập trong đoạn văn về Võ Nguyên Giáp. Do đó, câu chuyện này không liên quan đến ngữ cảnh của nhân vật được cung cấp.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến ""Truyện Kiều""."
+"Tác phẩm ""Truyện Kiều"" rất nhân văn.",Supported,"Nhãn: Supported  
+Lí do: Tác phẩm ""Truyện Kiều"" được đánh giá cao về tinh thần nhân đạo và tính hiện thực, điều này phản ánh rõ nét sự nhân văn trong tác phẩm. Các tác giả đã chú ý đặc biệt đến vấn đề tinh thần nhân đạo và coi đó là giá trị cơ bản của tác phẩm.  
+Đoạn thông tin: ""Vấn đề tinh thần nhân đạo và tính hiện thực của 'Truyện Kiều' được hai tác giả chú ý đặc biệt và coi là giá trị cơ bản của tác phẩm."""
+"Tác phẩm ""Truyện Kiều"" phản ánh sâu sắc xã hội phong kiến Việt Nam.",Supported,"Nhãn: Supported  
+Lí do: Thông tin cho rằng tác phẩm ""Truyện Kiều"" phản ánh sâu sắc xã hội phong kiến Việt Nam được hỗ trợ bởi việc đề cập đến quan điểm mỹ học Marxist trong nghiên cứu các tác phẩm của Nguyễn Du, trong đó ""Truyện Kiều"" được nhìn nhận như là sự phản ánh đời sống xã hội.  
+Đoạn thông tin: ""Tác phẩm văn học được nhìn nhận như là sự phản ánh đời sống xã hội và bộc lộ thái độ của nhà văn đối với hiện thực đó."""
+"Tác phẩm ""Truyện Kiều"" thể hiện tâm tư, tình cảm của con người.",Supported,"Nhãn: Supported  
+Lí do: Tác phẩm ""Truyện Kiều"" được xác nhận là một áng văn chương thể hiện sâu sắc tâm tư, tình cảm của nhân vật chính Thúy Kiều và phản ánh những thái độ sống của con người trong hoàn cảnh khó khăn. Thông tin này được ghi nhận trong đoạn văn mô tả nội dung và giá trị của tác phẩm.  
+Đoạn thông tin: ""Nội dung chính của truyện xoay quanh quãng đời lưu lạc sau khi bán mình chuộc cha của Thúy Kiều, nhân vật chính trong truyện, một cô gái có tài sắc."" và ""Các tác phẩm thơ Nôm của ông đều thể hiện tư tưởng, tình cảm sâu sắc, tài năng nghệ thuật của ông xuyên suốt các tác phẩm của ông, xuyên suốt cuộc đời ông và thể hiện rõ nhất qua áng văn chương bất hủ là Truyện Kiều."""
+"Tác phẩm ""Truyện Kiều"" thể hiện nỗi đau và khát vọng tự do.",Supported,"Nhãn: Supported  
+Lí do: Tác phẩm ""Truyện Kiều"" được mô tả trong thông tin là một áng văn chương tuyệt tác, và nội dung chính của truyện xoay quanh quãng đời lưu lạc của Thúy Kiều, nhân vật chính, sau khi bán mình chuộc cha. Điều này thể hiện nỗi đau của nhân vật và khát vọng tự do của cô. Mặc dù không có câu từ chính xác về ""khát vọng tự do"", nhưng sự mô tả về quãng đời lưu lạc và những đau khổ của Thúy Kiều ám chỉ điều đó.  
+Đoạn thông tin: ""Nội dung chính của truyện xoay quanh quãng đời lưu lạc sau khi bán mình chuộc cha của Thúy Kiều, nhân vật chính trong truyện, một cô gái có tài sắc."""
+"Nguyễn Du còn có nhiều bài thơ khác ngoài ""Truyện Kiều"".",Supported,"Nhãn: Supported  
+Lí do: Thông tin về việc Nguyễn Du có nhiều bài thơ khác ngoài ""Truyện Kiều"" được xác nhận trong đoạn văn cung cấp, trong đó nêu rõ rằng ông đã sáng tác nhiều tác phẩm thơ khác bằng chữ Nôm và chữ Hán, bao gồm ""Nam trung tạp ngâm"", ""Bắc hành tạp lục"", ""Văn chiêu hồn"" và ""Thác lời trai phường nón"".  
+Đoạn thông tin: ""Những tác phẩm bằng chữ Nôm của Nguyễn Du gồm có: ... Văn chiêu hồn (tức Văn tế thập loại chúng sinh) ... Thác lời trai phường nón, 48 câu, được viết bằng thể lục bát."" và ""Tập thơ 249 bài thơ chữ Hán của Nguyễn Du là một công trình tập thể đã được cụ Lê Thước và Trương Chính thu thập tài liệu, dịch nghĩa, chú thích, sắp xếp."""
+"Nguyễn Du có những tác phẩm nổi bật như ""Bắc hành tùng ngâm"".",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Nguyễn Du và tác phẩm ""Bắc hành tùng ngâm"" không có trong đoạn văn cung cấp. Đoạn văn chỉ tập trung vào các chiến dịch quân sự và vai trò của Võ Nguyên Giáp trong Chiến tranh Đông Dương, không đề cập đến Nguyễn Du hay các tác phẩm của ông.  
+Đoạn thông tin: Không có đoạn thông tin nào trong tài liệu cung cấp liên quan đến Nguyễn Du."
+"Nguyễn Du có những tác phẩm nổi bật như ""Nam trung tạp ngâm"".",Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin về tác phẩm ""Nam trung tạp ngâm"" không được đề cập trong đoạn văn cung cấp về Nguyễn Du, mà chỉ có thông tin về tác phẩm ""Truyện Kiều"" được nhấn mạnh là kiệt tác văn học của ông. Do đó, thông tin về ""Nam trung tạp ngâm"" không được xác nhận là đúng.  
+Đoạn thông tin: ""Tác phẩm Truyện Kiều của ông được xem là một kiệt tác văn học, một trong những thành tựu tiêu biểu nhất trong nền văn học trung đại Việt Nam."""
+Nguyễn Du được coi là bậc thầy trong việc sử dụng ngôn ngữ.,Supported,"Nhãn: Supported  
+Lí do: Thông tin về việc Nguyễn Du có học vấn uyên bác và nắm vững nhiều thể thơ của Trung Quốc, cũng như tài làm thơ bằng chữ Nôm, cho thấy ông là một bậc thầy trong việc sử dụng ngôn ngữ.  
+Đoạn thông tin: ""Nguyễn Du là nhà thơ có học vấn uyên bác, nắm vững nhiều thể thơ của Trung Quốc như: ngũ ngôn cổ thi, ngũ ngôn luật, thất ngôn luật, ca, hành,... nên ở thể thơ nào, ông cũng có bài xuất sắc. Đặc biệt hơn cả là tài làm thơ bằng chữ Nôm của ông, mà đỉnh cao là Truyện Kiều, đã cho thấy thể thơ lục bát có khả năng chuyển tải nội dung tự sự và trữ tình to lớn trong thể loại truyện thơ."""
+Nguyễn Du tạo ra những tác phẩm có giá trị nghệ thuật cao.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin đề cập đến Nguyễn Du và các tác phẩm của ông không được nhắc đến trong đoạn văn cung cấp. Đoạn thông tin chủ yếu nói về Võ Nguyên Giáp và các sự kiện liên quan đến cuộc đời và hoạt động cách mạng của ông, không có liên quan gì đến Nguyễn Du.  
+Đoạn thông tin: <Không có đoạn thông tin nào liên quan đến Nguyễn Du trong văn bản cung cấp.>"
+Nguyễn Du là một nhà tư tưởng lớn.,Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin ""Nguyễn Du là một nhà tư tưởng lớn"" không được xác nhận trong thông tin cung cấp và không có bằng chứng rõ ràng từ đoạn văn về việc ông là một nhà tư tưởng. Tài liệu chỉ đề cập đến ông như một nhà thơ và nhà văn hóa lớn thời Lê mạt Nguyễn sơ ở Việt Nam.  
+Đoạn thông tin: ""Nguyễn Du (chữ Hán: 阮攸; 3 tháng 1 năm 1766 – 16 tháng 9 năm 1820) tên tự là Tố Như (素如), hiệu là Thanh Hiên (清軒), biệt hiệu là Hồng Sơn lạp hộ (鴻山獵戶), Nam Hải điếu đồ (南海釣屠), là một nhà thơ, nhà văn hóa lớn thời Lê mạt Nguyễn sơ ở Việt Nam. Ông được người Việt kính trọng tôn xưng là 'Đại thi hào dân tộc' và được UNESCO vinh danh là 'Danh nhân văn hóa thế giới'."""
+Nguyễn Du thể hiện lòng yêu nước.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về lòng yêu nước của Nguyễn Du không được đề cập trong đoạn văn đã cung cấp, mà chỉ tập trung vào Võ Nguyên Giáp và những thành tựu của ông trong chiến tranh Việt Nam.  
+Đoạn thông tin: ""Đối với những chỉ trích từ phương Tây rằng ông là người vô cảm, chính bản thân Võ Nguyên Giáp đã từng trả lời một nhà báo Ý rằng: 'Người phương Đông chúng tôi khác người phương Tây các ông. Chúng tôi đặt sự tồn vong của cộng đồng lên trên lợi ích cá nhân...'"" (tất cả các đoạn đều nói về Võ Nguyên Giáp mà không có thông tin về Nguyễn Du)."
+Nguyễn Du thể hiện tình yêu thương con người.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Atomic fact ""Nguyễn Du thể hiện tình yêu thương con người"" không có liên quan đến thông tin được cung cấp về Võ Nguyên Giáp. Tất cả thông tin trong ngữ cảnh đều liên quan đến cuộc đời, sự nghiệp và tư tưởng quân sự của Võ Nguyên Giáp, không đề cập đến Nguyễn Du hay tình yêu thương con người.  
+Đoạn thông tin: Không có thông tin nào liên quan đến Nguyễn Du."
+Nguyễn Du thể hiện sự trăn trở về số phận con người trong xã hội.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Nguyễn Du và sự trăn trở của ông về số phận con người trong xã hội không được đề cập trong ngữ cảnh thông tin đã cho. Đoạn thông tin cung cấp chủ yếu về Hồ Chí Minh, chủ nghĩa Mác-Lênin, và các phong trào cách mạng, mà không có đề cập đến Nguyễn Du hay tác phẩm của ông.  
+Đoạn thông tin: Không có đoạn thông tin nào trong văn bản liên quan đến Nguyễn Du."
+"Nguyễn Du được tôn vinh là ""Thi tiên"".",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về việc Nguyễn Du được tôn vinh là ""Thi tiên"" không liên quan đến nội dung đã cung cấp, mà nội dung chỉ nói về Hồ Cơ và Đại tướng Võ Nguyên Giáp. Không có thông tin nào đề cập đến Nguyễn Du trong đoạn văn bản.  
+Đoạn thông tin: ""Nhà giáo Hồ Cơ nhận xét về Đại tướng Võ Nguyên Giáp như sau: 'Đất nước này nên cơ nên nghiệp, thứ nhất là do công của Chủ tịch Hồ Chí Minh, sau đó là Đại tướng Võ Nguyên Giáp...'"""
+Nguyễn Du là một trong những biểu tượng của văn hóa Việt Nam.,Supported,"Nhãn: Supported  
+Lí do: Thông tin này được xác nhận trong đoạn văn rằng Nguyễn Du được người Việt kính trọng tôn xưng là ""Đại thi hào dân tộc"" và được UNESCO vinh danh là ""Danh nhân văn hóa thế giới"", cho thấy vai trò và tầm ảnh hưởng của ông trong văn hóa Việt Nam.  
+Đoạn thông tin: ""Ông được người Việt kính trọng tôn xưng là 'Đại thi hào dân tộc' và được UNESCO vinh danh là 'Danh nhân văn hóa thế giới'."""
+"Năm 1965, Nguyễn Du được UNESCO công nhận là Danh nhân Văn hóa Thế giới.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Nguyễn Du và việc ông được UNESCO công nhận là Danh nhân Văn hóa Thế giới không có trong đoạn văn về Phạm Văn Đồng. Đoạn văn chỉ nói về cuộc đời và sự nghiệp của Phạm Văn Đồng, không liên quan đến Nguyễn Du hay các sự kiện văn hóa khác.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Nguyễn Du trong đoạn văn đã cho."

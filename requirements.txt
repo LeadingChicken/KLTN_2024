@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+openai
+python-dotenv
+chromadb
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pandas
+google-generativeai
+langchain-google-genai

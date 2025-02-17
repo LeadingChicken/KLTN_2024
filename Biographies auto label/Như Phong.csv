@@ -1,0 +1,49 @@
+﻿Atomic Fact,Label,Reason
+Như Phong là một nhân vật nổi tiếng trong văn học Việt Nam.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Atomic fact ""Như Phong là một nhân vật nổi tiếng trong văn học Việt Nam"" không liên quan đến thông tin đã cung cấp về Hồ Chí Minh, mà chỉ nói về ông và không đề cập đến Như Phong.  
+Đoạn thông tin: Không có đoạn thông tin nào trong văn bản liên quan hoặc đề cập đến Như Phong."
+Như Phong hoạt động trong lĩnh vực tiểu thuyết và báo chí.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về hoạt động của Như Phong trong lĩnh vực tiểu thuyết và báo chí không được đề cập trong đoạn thông tin về Nguyễn Phú Trọng, vì vậy nó không liên quan đến ngữ cảnh.  
+Đoạn thông tin: Không có thông tin nào liên quan đến Như Phong trong văn bản cung cấp."
+Như Phong sinh năm 1940 tại Hà Nội.,Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin về việc ""Như Phong sinh năm 1940 tại Hà Nội"" không đúng, vì trong thông tin về Trịnh Công Sơn, ông sinh năm 1939 (có nguồn nói sinh năm 1940) và không có thông tin nào cho biết Như Phong có liên quan hay sinh ra tại Hà Nội.  
+Đoạn thông tin: ""Trịnh Công Sơn sinh năm 1939, nhưng có nguồn nói sinh năm 1940."""
+Như Phong mất năm 2018.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về cái chết của Như Phong vào năm 2018 không được đề cập trong đoạn văn cung cấp, do đó không thể xác minh được thông tin này dựa trên nguồn tài liệu được cung cấp.  
+Đoạn thông tin: Không có thông tin liên quan đến Như Phong trong đoạn văn."
+"Như Phong là bút danh của nhà báo, nhà văn Nguyễn Huy Thiệp.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về bút danh của nhà báo, nhà văn Nguyễn Huy Thiệp không liên quan đến thông tin cung cấp về Nguyễn Trọng Trí (Hàn Mặc Tử), mà chỉ nói về cuộc đời và sự nghiệp của ông. Không có bất kỳ thông tin nào trong đoạn văn nói đến Nguyễn Huy Thiệp hay bút danh Như Phong.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Nguyễn Huy Thiệp hoặc bút danh Như Phong trong văn bản cung cấp."
+Nguyễn Huy Thiệp được biết đến với nhiều tác phẩm nổi bật.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Nguyễn Huy Thiệp không được đề cập trong đoạn văn bản cung cấp về Hàn Mặc Tử, do đó không có cơ sở nào để xác nhận thông tin này.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Nguyễn Huy Thiệp trong phần thông tin về Hàn Mặc Tử."
+Tác phẩm của Nguyễn Huy Thiệp phản ánh sâu sắc đời sống xã hội và con người Việt Nam.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin được cung cấp không đề cập đến Nguyễn Huy Thiệp hoặc tác phẩm của ông. Thay vào đó, thông tin chỉ nói về Nguyễn Nhật Ánh, một nhà văn khác của Việt Nam, và các tác phẩm của ông.  
+Đoạn thông tin: ""Nguyễn Nhật Ánh (sinh ngày 7 tháng 5 năm 1955) là một nam nhà văn người Việt Nam. Được xem là một trong những nhà văn hiện đại xuất sắc nhất Việt Nam hiện nay, ông được biết đến qua nhiều tác phẩm văn học về đề tài tuổi trẻ."""
+"Như Phong đã viết nhiều bài báo, tiểu thuyết và truyện ngắn.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về việc Như Phong đã viết nhiều bài báo, tiểu thuyết và truyện ngắn không có trong đoạn văn cung cấp về Nguyễn Du. Đoạn văn chỉ tập trung vào tác phẩm và sự nghiệp của Nguyễn Du, không đề cập đến Như Phong hay các tác phẩm của ông.  
+Đoạn thông tin: Không có thông tin nào liên quan đến Như Phong trong đoạn văn đã cung cấp."
+Phong cách viết của Như Phong thể hiện sự nhạy bén về xã hội và tâm lý con người.,Supported,"Nhãn: Supported  
+Lí do: Atomic fact này được hỗ trợ bởi nhiều đoạn trong thông tin, trong đó Như Phong thể hiện sự nhạy bén về xã hội và tâm lý con người thông qua quan điểm về hôn nhân, giáo dục và vai trò cá nhân trong xã hội. Ông không chỉ nêu ra quan điểm mà còn đưa ra những ví dụ cụ thể, cho thấy sự hiểu biết sâu sắc về các vấn đề xã hội và tâm lý con người.  
+Đoạn thông tin: ""Hôn nhân bao giờ cũng là một sự may rủi. Dù sáng suốt và chịu tốn công thì cũng không chắc gì kiếm được người hợp ý mình; phải chung sống năm ba năm mới rõ được tính tình của nhau."" và ""Không nên cho trẻ sung sướng quá. Phải tập cho chúng có quy củ, kỷ luật, biết tự chủ và hiểu rằng ở đời có những việc mình không thích làm nhưng vẫn phải làm; và làm thì phải làm ngay, làm đàng hoàng, làm cho xong."""
+Như Phong là một trong những cây bút tiêu biểu của văn học hiện đại Việt Nam.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Như Phong không có trong đoạn văn bản cung cấp, mà chỉ có thông tin về Phạm Duy và sự nghiệp của ông trong bối cảnh Chiến tranh Việt Nam. Không có liên quan đến Như Phong hay văn học hiện đại Việt Nam.  
+Đoạn thông tin: <Không có thông tin liên quan đến Như Phong trong đoạn văn bản>"
+Nhiều tác phẩm của Như Phong được độc giả yêu thích và đánh giá cao.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Như Phong không được đề cập trong đoạn văn bản cung cấp, mà chỉ có thông tin về Trịnh Công Sơn và các tác phẩm của ông. Do đó, atomic fact này không liên quan đến ngữ cảnh.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Như Phong trong văn bản."
+Như Phong đã đóng góp nhiều cho các tờ báo lớn.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin không liên quan đến nhân vật Nguyễn Phú Trọng được cung cấp trong ngữ cảnh, không có bất kỳ thông tin nào đề cập đến việc ông đã đóng góp cho các tờ báo lớn.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan trong nội dung đã cung cấp."
+Như Phong là một trong những người có ảnh hưởng trong lĩnh vực truyền thông tại Việt Nam.,Supported,"Nhãn: Supported  
+Lí do: Như Phong được mô tả là một nhà văn, nhà lý luận phê bình và nhà báo, những người có vai trò quan trọng trong lĩnh vực truyền thông. Ông đã là biên tập viên của nhiều tờ báo và đảm nhiệm các vị trí quan trọng trong các cơ quan truyền thông, cho thấy ảnh hưởng của ông trong lĩnh vực này.  
+Đoạn thông tin: ""Như Phong có nhiều bút danh: Như Phong, Lâm Vũ, Nguyễn Kiên Trì... Trước Cách mạng tháng Tám, ông là biên tập viên các báo Thế giới, Mới và Người mới, vốn là cơ quan ngôn luận của tổ chức chính trị Đoàn thanh niên dân chủ."" và ""Sau Cách mạng tháng Tám, Như Phong lần lượt làm Chủ nhiệm kiêm Tổng biên tập các báo Cứu quốc khu 12, Cứu quốc khu 10, Cứu quốc liên khu ba và Cứu quốc Hà Nội."""
+Tác phẩm của Như Phong thường mang đậm tính nhân văn.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về tác phẩm của Như Phong không có trong đoạn văn cung cấp về Nguyễn Du. Đoạn văn chỉ nói về các tác phẩm của Nguyễn Du và không đề cập đến Như Phong hay các tác phẩm của ông.  
+Đoạn thông tin: Không có thông tin liên quan đến Như Phong trong đoạn văn cung cấp."
+Tác phẩm của Như Phong phản ánh những vấn đề gai góc của xã hội.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Atomic fact này không liên quan đến thông tin đã được cung cấp về nhân vật và các tác phẩm của ông, vì không có thông tin nào trong đoạn văn đề cập đến Như Phong hoặc các vấn đề gai góc của xã hội mà ông phản ánh.  
+Đoạn thông tin: Không có đoạn thông tin nào phản ánh điều đó trong văn bản đã cung cấp."
+Tác phẩm của Như Phong khám phá chiều sâu tâm lý của nhân vật.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về việc tác phẩm của Như Phong khám phá chiều sâu tâm lý của nhân vật không có trong đoạn thông tin cung cấp. Đoạn văn chỉ liệt kê danh sách các tác phẩm của tác giả mà không đề cập đến nội dung hay phong cách viết của chúng.  
+Đoạn thông tin: ""== Các tác phẩm == ... Tiệm sách của nàng (truyện dài, 2024)"" (liệt kê các tác phẩm mà không có thông tin về chiều sâu tâm lý)."

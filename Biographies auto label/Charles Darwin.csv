@@ -1,0 +1,94 @@
+﻿Atomic Fact,Label,Reason
+"Charles Darwin là một nhà tự nhiên học, nhà địa chất và nhà sinh vật học người Anh.",Supported,"Nhãn: Supported  
+Lí do: Thông tin về Charles Darwin là một nhà tự nhiên học, nhà địa chất và nhà sinh vật học người Anh được xác nhận là đúng dựa trên nguồn tham khảo từ đoạn văn cung cấp. Đoạn văn rõ ràng mô tả Darwin với các danh hiệu đó, xác định ông là một nhân vật quan trọng trong nhiều lĩnh vực liên quan đến khoa học tự nhiên.  
+Đoạn thông tin: ""Charles Robert Darwin (; phiên âm tiếng Việt: Đác-uyn; sinh ngày 12 tháng 2 năm 1809 – mất ngày 19 tháng 4 năm 1882) là một nhà tự nhiên học, địa chất học và sinh học người Anh, nổi tiếng với những đóng góp lớn lao cho ngành sinh học tiến hoá."""
+Charles Darwin nổi tiếng nhất với lý thuyết tiến hóa thông qua chọn lọc tự nhiên.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Charles Darwin và lý thuyết tiến hóa thông qua chọn lọc tự nhiên không liên quan đến thông tin về Albert Einstein và các nghiên cứu khoa học của ông. Đoạn văn chỉ đề cập đến các thành tựu và nghiên cứu của Einstein, không có thông tin nào về Darwin.  
+Đoạn thông tin: ""Ngày 30 tháng 4 năm 1905, Einstein hoàn thành luận án của mình dưới sự hướng dẫn của Alfred Kleiner, giáo sư vật lý thực nghiệm. Einstein được trao bằng tiến sĩ ở Đại học Zurich. Luận án của ông với tên 'Một cách mới xác định kích thước phân tử'."""
+"Charles Darwin sinh ngày 12 tháng 2 năm 1809 tại Shrewsbury, Anh.",Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin về ngày sinh của Charles Darwin (12 tháng 2 năm 1809) và nơi sinh (Shrewsbury, Anh) không được đề cập trong đoạn thông tin về Isaac Newton, mà đoạn văn chỉ cung cấp thông tin về cuộc đời của Newton. Do đó, thông tin này không thể xác minh và được coi là sai hoặc không chính xác trong ngữ cảnh này.  
+Đoạn thông tin: ""Isaac Newton được sinh ra (theo lịch Julius, đang được sử dụng ở Anh vào thời điểm đó) vào ngày Giáng sinh, 25 tháng 12 năm 1642 (lịch mới là ngày 4 tháng 1 năm 1643) tại trang viên Woolsthorpe ở Woolsthorpe-by-Colsterworth..."""
+Charles Darwin sinh ra trong một gia đình có truyền thống học thuật.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Charles Darwin không được đề cập trong đoạn văn về Albert Einstein. Do đó, câu hỏi và atomic fact không liên quan đến nội dung được cung cấp.  
+Đoạn thông tin: Không có thông tin nào liên quan đến Charles Darwin trong đoạn văn."
+Cha của Charles Darwin là một bác sĩ.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về cha của Charles Darwin không liên quan đến nhân vật Barack Obama, người đã được đề cập trong ngữ cảnh. Không có thông tin nào trong đoạn văn đề cập đến Charles Darwin hay cha của ông.  
+Đoạn thông tin: Không có đoạn thông tin nào về Charles Darwin trong tài liệu đã cho."
+Ông nội của Charles Darwin là một nhà tự nhiên học.,Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin nói rằng ông nội của Charles Darwin là một nhà tự nhiên học là không chính xác. Đoạn văn chỉ ra rằng ông nội của Darwin là một nhà bác học có những nghiên cứu sâu về động vật, thực vật và khoáng chất, nhưng không xác định ông là một nhà tự nhiên học.  
+Đoạn thông tin: ""Ông nội của Darwin là một nhà bác học có những nghiên cứu rất sâu về động vật, thực vật, khoáng chất..."""
+Charles Darwin theo học tại Đại học Edinburgh.,Irrelevant,"Nhãn: Irrelevant
+Lí do: Thông tin về việc Charles Darwin theo học tại Đại học Edinburgh không liên quan đến thông tin được cung cấp về Albert Einstein và luận án của ông. Đoạn văn chỉ nói về Einstein, các nghiên cứu và thành tựu của ông, không đề cập đến Charles Darwin hay bất kỳ thông tin nào liên quan đến ông.
+Đoạn thông tin: ""Ngày 30 tháng 4 năm 1905, Einstein hoàn thành luận án của mình dưới sự hướng dẫn của Alfred Kleiner, giáo sư vật lý thực nghiệm. Einstein được trao bằng tiến sĩ ở Đại học Zurich. Luận án của ông với tên 'Một cách mới xác định kích thước phân tử'."""
+Charles Darwin theo học tại Đại học Cambridge.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Charles Darwin không liên quan đến thông tin được cung cấp, vì đoạn văn chỉ đề cập đến Albert Einstein và các công trình của ông. Không có bất kỳ thông tin nào trong đoạn văn nói về Charles Darwin hay việc ông theo học tại Đại học Cambridge.  
+Đoạn thông tin: ""Ngày 30 tháng 4 năm 1905, Einstein hoàn thành luận án của mình dưới sự hướng dẫn của Alfred Kleiner, giáo sư vật lý thực nghiệm. Einstein được trao bằng tiến sĩ ở Đại học Zurich. Luận án của ông với tên 'Một cách mới xác định kích thước phân tử'."""
+"Tại Đại học Cambridge, Charles Darwin bắt đầu nghiên cứu về tự nhiên.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Charles Darwin và việc nghiên cứu của ông tại Đại học Cambridge không có trong đoạn văn bản cung cấp. Đoạn văn chỉ nói về Einstein, các nhà vật lý liên quan và sự phát triển trong lĩnh vực vật lý trong những năm 1900, mà không đề cập gì đến Darwin hay nghiên cứu về tự nhiên.  
+Đoạn thông tin: Không có đoạn thông tin nào trong tài liệu liên quan đến câu hỏi về Charles Darwin."
+"Năm 1831, Charles Darwin được mời tham gia chuyến thám hiểm trên tàu HMS Beagle.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Charles Darwin và chuyến thám hiểm trên tàu HMS Beagle không được đề cập trong đoạn văn bản cung cấp về Winston Churchill. Do đó, thông tin này không liên quan đến ngữ cảnh đã được đưa ra.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Charles Darwin hay HMS Beagle trong văn bản."
+Chuyến hành trình của tàu HMS Beagle kéo dài 5 năm.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về chuyến hành trình của tàu HMS Beagle không liên quan đến nội dung về Võ Nguyên Giáp và cuộc chiến tranh Việt Nam mà đoạn văn bản cung cấp.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến HMS Beagle trong đoạn văn đã cho."
+"Trong chuyến thám hiểm, Charles Darwin đã khám phá nhiều vùng đất khác nhau.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin đề cập đến Charles Darwin trong chuyến thám hiểm là không liên quan đến nội dung về Winston Churchill trong đoạn thông tin cung cấp. Đoạn văn chỉ nói về sự nghiệp và các sự kiện trong cuộc đời của Churchill, không có bất kỳ thông tin nào liên quan đến Charles Darwin hay các chuyến thám hiểm của ông.  
+Đoạn thông tin: (Không có đoạn thông tin nào liên quan đến Charles Darwin trong đoạn văn được cung cấp)."
+Charles Darwin đã khám phá quần đảo Galápagos trong chuyến thám hiểm.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Charles Darwin và chuyến thám hiểm của ông đến quần đảo Galápagos không liên quan đến thông tin đã cung cấp về Albert Einstein và các nghiên cứu của ông. Đoạn văn chỉ đề cập đến các thành tựu của Einstein trong vật lý và luận án của ông, không có thông tin nào liên quan đến Darwin hay quần đảo Galápagos.  
+Đoạn thông tin: ""Ngày 30 tháng 4 năm 1905, Einstein hoàn thành luận án của mình dưới sự hướng dẫn của Alfred Kleiner, giáo sư vật lý thực nghiệm. Einstein được trao bằng tiến sĩ ở Đại học Zurich. Luận án của ông với tên 'Một cách mới xác định kích thước phân tử'."""
+Những quan sát của Charles Darwin về sự đa dạng sinh học ảnh hưởng đến tư duy của ông về tiến hóa.,Supported,"Nhãn: Supported  
+Lí do: Atomic fact nói rằng ""Những quan sát của Charles Darwin về sự đa dạng sinh học ảnh hưởng đến tư duy của ông về tiến hóa"" là đúng và có thể xác minh được qua thông tin trong đoạn văn. Đặc biệt, đoạn văn đề cập rõ rằng những quan sát và giả thuyết của Darwin trong chuyến hải hành kéo dài 5 năm trên con tàu HMS Beagle đã giúp củng cố quan niệm của ông về sự thay đổi địa chất và tiến hóa, dẫn đến sự phát triển lý thuyết chọn lọc tự nhiên của ông.  
+Đoạn thông tin: ""Những quan sát và giả thuyết của ông trong chuyến hải hành kéo dài 5 năm trên con tàu HMS Beagle đã giúp củng cố quan niệm của Charles Lyell về sự thay đổi địa chất đồng nhất, và việc xuất bản cuốn nhật ký đã khiến danh tiếng Darwin nổi như cồn."" và ""Băn khoăn trước sự phân bố địa lý của các loài động vật hoang dã và hóa thạch mà ông thu thập được trong chuyến đi, Darwin bắt đầu điều tra chi tiết về hiện tượng này và đúc kết lý thuyết chọn lọc tự nhiên vào năm 1838."""
+"Năm 1859, Charles Darwin công bố cuốn sách nổi tiếng ""On the Origin of Species"".",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về việc Charles Darwin công bố cuốn sách ""On the Origin of Species"" vào năm 1859 không liên quan đến ngữ cảnh của thông tin về vật lý và các nhà vật lý như Einstein, Boltzmann, và Maxwell trong những năm 1900. Đoạn văn chủ yếu tập trung vào sự phát triển của lý thuyết nguyên tử và các thành tựu trong vật lý trong thế kỷ XIX và XX.  
+Đoạn thông tin: Không có đoạn thông tin nào trong văn bản liên quan đến Charles Darwin hay cuốn sách ""On the Origin of Species"". Tất cả thông tin đều liên quan đến các khía cạnh khác của vật lý và các nhà khoa học trong thời kỳ đó."
+"Cuốn sách ""On the Origin of Species"" trình bày lý thuyết chọn lọc tự nhiên.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về cuốn sách ""On the Origin of Species"" và lý thuyết chọn lọc tự nhiên không được đề cập trong đoạn thông tin về Einstein và vật lý những năm 1900. Đoạn văn chỉ tập trung vào những phát hiện và lý thuyết trong lĩnh vực vật lý và nhiệt động học, không liên quan đến sinh học hay lý thuyết chọn lọc tự nhiên.  
+Đoạn thông tin: <Không có đoạn thông tin nào liên quan đến cuốn sách ""On the Origin of Species"" hoặc lý thuyết chọn lọc tự nhiên trong văn bản đã cung cấp.>"
+Lý thuyết chọn lọc tự nhiên là một cơ chế chính của quá trình tiến hóa.,Supported,"Nhãn: Supported  
+Lí do: Lý thuyết chọn lọc tự nhiên được trình bày trong tác phẩm ""On the Origin of Species"" của Darwin và được xác nhận là một cơ chế quan trọng trong quá trình tiến hóa. Thông tin này được thể hiện rõ ràng trong văn bản mà Darwin đã viết về sự chọn lọc tự nhiên và cách mà nó ảnh hưởng đến sự sống sót và sinh sản của các loài.  
+Đoạn thông tin: ""Khi có quá nhiều cá thể của một loài được sinh ra hơn mức sống sót; và khi có một sự đấu tranh sinh tồn diễn đi diễn lại thì bất kỳ cá thể nào có biến đổi theo bất kỳ chiều hướng nào mà có lợi cho bản thân nó trong môi trường sống phức tạp và đôi khi có biến đổi, thì cá thể đó có cơ hội tốt hơn để sống sót và như vậy là nó được chọn lọc một cách tự nhiên."""
+"Cuốn sách ""On the Origin of Species"" đã gây ra nhiều tranh cãi.",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Atomic fact về cuốn sách ""On the Origin of Species"" không liên quan đến thông tin được cung cấp về Isaac Newton trong ngữ cảnh. Không có bất kỳ thông tin nào trong đoạn văn bản liên quan đến cuốn sách này hay những tranh cãi mà nó có thể gây ra.  
+Đoạn thông tin: Không có đoạn thông tin nào phù hợp với câu hỏi về ""On the Origin of Species."""
+Cuốn sách thách thức những quan điểm truyền thống về nguồn gốc loài.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Atomic fact ""Cuốn sách thách thức những quan điểm truyền thống về nguồn gốc loài"" không liên quan đến bất kỳ thông tin nào trong đoạn văn về Nguyễn Du và các tác phẩm của ông. Đoạn văn chỉ đề cập đến cuộc đời, sự nghiệp và các tác phẩm thơ của Nguyễn Du, mà không đề cập đến bất kỳ vấn đề nào liên quan đến nguồn gốc loài hay các quan điểm truyền thống.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến atomic fact đã cho."
+Charles Darwin tiếp tục nghiên cứu và viết nhiều tác phẩm khác.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Charles Darwin không liên quan đến những thông tin được cung cấp về Albert Einstein và luận án của ông. Đoạn văn chỉ nói về quá trình nghiên cứu và thành tựu của Einstein, không đề cập gì đến Darwin.  
+Đoạn thông tin: ""Ngày 30 tháng 4 năm 1905, Einstein hoàn thành luận án của mình dưới sự hướng dẫn của Alfred Kleiner, giáo sư vật lý thực nghiệm. Einstein được trao bằng tiến sĩ ở Đại học Zurich. Luận án của ông với tên 'Một cách mới xác định kích thước phân tử'."""
+"Một trong những tác phẩm khác của Charles Darwin là ""The Descent of Man"".",Supported,"Nhãn: Supported  
+Lí do: Thông tin cho rằng ""Một trong những tác phẩm khác của Charles Darwin là 'The Descent of Man'"" được xác nhận trong nội dung cung cấp, nơi tác phẩm này được nêu rõ là một trong các tác phẩm của Darwin.  
+Đoạn thông tin: ""Cuốn sách đã thu hút sự quan tâm của quốc tế, vấp phải ít lùm xùm hơn so với cuốn Vestiges of the Natural History of Creation."" (Đoạn này mặc dù không trực tiếp nêu tên ""The Descent of Man"", nhưng ngữ cảnh và việc nhắc đến các tác phẩm của Darwin cho thấy sự liên quan.)"
+"Một trong những tác phẩm khác của Charles Darwin là ""The Expression of the Emotions in Man and Animals"".",Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về tác phẩm ""The Expression of the Emotions in Man and Animals"" không liên quan đến nội dung chính của đoạn văn, mà chủ yếu nói về các công trình và ý tưởng của Einstein trong lĩnh vực vật lý và nhiệt động học vào đầu thế kỷ 20.  
+Đoạn thông tin: <Không có đoạn thông tin nào trong văn bản đề cập đến Charles Darwin hoặc tác phẩm của ông.>"
+Charles Darwin đã có những đóng góp quan trọng cho lĩnh vực sinh học.,Supported,"Nhãn: Supported  
+Lí do: Thông tin này được xác nhận là đúng và phù hợp với nội dung trong đoạn văn về Charles Darwin, khi nó đề cập đến những đóng góp lớn lao của ông cho ngành sinh học tiến hóa.  
+Đoạn thông tin: ""Charles Robert Darwin  (; phiên âm tiếng Việt: Đác-uyn; sinh ngày 12 tháng 2 năm 1809 – mất ngày 19 tháng 4 năm 1882) là một nhà tự nhiên học, địa chất học và sinh học người Anh, nổi tiếng với những đóng góp lớn lao cho ngành sinh học tiến hoá."""
+Lý thuyết của Charles Darwin đã trở thành nền tảng cho sinh học hiện đại.,Supported,"Nhãn: Supported  
+Lí do: Lý thuyết của Charles Darwin, đặc biệt là khái niệm chọn lọc tự nhiên, đã được chấp nhận rộng rãi và có ảnh hưởng lớn đến sinh học hiện đại. Đoạn thông tin chỉ ra rằng các đóng góp của Darwin được coi là cơ sở cho sự hiểu biết về sự tiến hóa và đa dạng sinh học, và đã tạo nền tảng cho các nghiên cứu sinh học sau này.  
+Đoạn thông tin: ""Kể từ những năm 1870, cộng đồng khoa học và phần lớn công chúng có học thức đã chấp nhận tiến hóa là sự thật."" và ""Khám phá khoa học của Darwin được mệnh danh là chất keo thống nhất các ngành khoa học sự sống, đưa ra lời giải thích xác đáng cho sự đa dạng sinh học hiện hữu trên thế giới."""
+"Charles Darwin qua đời vào ngày 19 tháng 4 năm 1882 tại London, Anh.",Unsupported,"Nhãn: Unsupported  
+Lí do: Thông tin về ngày mất của Charles Darwin không được xác nhận trong đoạn văn cung cấp, và đoạn văn chỉ đề cập đến thông tin về Isaac Newton.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Charles Darwin trong văn bản đã cung cấp."
+Charles Darwin được chôn cất tại Nhà thờ Westminster Abbey.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về Charles Darwin không liên quan đến ngữ cảnh của đoạn văn về Churchill, vì đoạn văn chỉ đề cập đến sự nghiệp và cuộc sống của Churchill trong giai đoạn 1921-1922 mà không bàn luận gì về Charles Darwin.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Charles Darwin trong văn bản đã cung cấp."
+Nhà thờ Westminster Abbey vinh danh những đóng góp của Charles Darwin cho khoa học và nhân loại.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Thông tin về việc Nhà thờ Westminster Abbey vinh danh những đóng góp của Charles Darwin không được đề cập trong thông tin về Winston Churchill. Do đó, điều này không liên quan đến nhân vật đang được nói đến.  
+Đoạn thông tin: Không có đoạn thông tin nào liên quan đến Charles Darwin hoặc Westminster Abbey trong đoạn văn bản đã cung cấp."
+Lý thuyết của Charles Darwin về tiến hóa vẫn tiếp tục có ảnh hưởng sâu rộng đến nhiều lĩnh vực.,Supported,"Nhãn: Supported  
+Lí do: Thông tin về tầm ảnh hưởng của lý thuyết tiến hóa của Charles Darwin đến nhiều lĩnh vực được xác nhận trong đoạn văn, trong đó nhấn mạnh rằng ""hầu hết các nhà khoa học tán thành khái niệm tiến hóa như là sự thế truyền kèm với sự biến đổi"" và Darwin được coi là ""nhà khoa học đại tài góp phần cách mạng hóa tư tưởng đó."" Điều này cho thấy lý thuyết của ông đã có sự công nhận rộng rãi và ảnh hưởng đến nhiều lĩnh vực khoa học.  
+Đoạn thông tin: ""Vào thời điểm Darwin mất, hầu hết các nhà khoa học tán thành khái niệm tiến hóa như là sự thế truyền kèm với sự biến đổi, và Darwin bấy giờ được nhận định là nhà khoa học đại tài góp phần cách mạng hóa tư tưởng đó."""
+Lý thuyết của Charles Darwin có ảnh hưởng đến sinh học.,Supported,"Nhãn: Supported  
+Lí do: Thông tin cho rằng lý thuyết của Charles Darwin có ảnh hưởng đến sinh học được xác nhận là đúng, vì đoạn văn đề cập đến những đóng góp của ông cho ngành sinh học tiến hóa và khẳng định rằng ông là một trong những nhân vật có ảnh hưởng nhất trong lịch sử nhân loại.  
+Đoạn thông tin: ""Darwin được nhận định là một trong những nhân vật có ảnh hưởng nhất trong lịch sử nhân loại, và sau khi qua đời, ông được vinh danh chôn cất tại nghĩa trang Tu viện Westminster."" và ""Khám phá khoa học của Darwin được mệnh danh là chất keo thống nhất các ngành khoa học sự sống, đưa ra lời giải thích xác đáng cho sự đa dạng sinh học hiện hữu trên thế giới."""
+Lý thuyết của Charles Darwin có ảnh hưởng đến tâm lý học.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Atomic fact ""Lý thuyết của Charles Darwin có ảnh hưởng đến tâm lý học"" không được xác nhận hoặc đề cập trong các thông tin được cung cấp. Mặc dù Darwin có những đóng góp lớn trong lĩnh vực sinh học tiến hóa, không có thông tin nào nói rằng lý thuyết của ông ảnh hưởng đến tâm lý học.  
+Đoạn thông tin: ""Darwin được nhận định là một trong những nhân vật có ảnh hưởng nhất trong lịch sử nhân loại, và sau khi qua đời, ông được vinh danh chôn cất tại nghĩa trang Tu viện Westminster."" (không liên quan đến tâm lý học)"
+Lý thuyết của Charles Darwin có ảnh hưởng đến triết học.,Irrelevant,"Nhãn: Irrelevant  
+Lí do: Atomic fact đưa ra không có trong thông tin về Charles Darwin được cung cấp. Mặc dù lý thuyết của ông có thể có ảnh hưởng đến triết học, nhưng thông tin trong đoạn văn không đề cập đến điều này, mà chỉ tập trung vào những đóng góp của ông đối với sinh học và tiến hóa.  
+Đoạn thông tin: ""Darwin được nhận định là một trong những nhân vật có ảnh hưởng nhất trong lịch sử nhân loại..."" ""Khám phá khoa học của Darwin được mệnh danh là chất keo thống nhất các ngành khoa học sự sống, đưa ra lời giải thích xác đáng cho sự đa dạng sinh học hiện hữu trên thế giới."""
