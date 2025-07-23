@@ -10,6 +10,7 @@ import random
 from collections import Counter
 import re
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 
 # Import LLM and search dependencies
 from langchain.prompts import PromptTemplate
@@ -197,9 +198,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+
 @app.get("/")
 def root():
-    return {"message": "Welcome to the Atomic Fact Labeling API. Use POST /label_fact."}
+    return FileResponse("frontend/index.html")
 
 @app.post("/label_fact", response_model=FactResponse)
 def label_fact(request: FactRequest):

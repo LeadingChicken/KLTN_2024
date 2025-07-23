@@ -1,0 +1,67 @@
+============================
+HƯỚNG DẪN SỬ DỤNG
+============================
+
+1. CÀI ĐẶT MÔI TRƯỜNG
+---------------------
+- Cài Python >= 3.8
+- Cài các thư viện cần thiết:
+
+    pip install -r requirements.txt
+
+- Tạo file .env chứa các API key cần thiết (OpenAI, Gemini, Anthropic, Tavily...)
+Các trường cần có như sau:
+OPENAI_API_KEY=your_openai_api_key
+GEMINI_API_KEY=your_google_gemini_api_key
+ANTHROPIC_API_KEY=your_anthropic_api_key
+TAVILY_API_KEY=your_tavily_api_key
+
+2. CHẠY CÁC THÍ NGHIỆM GÁN NHÃN TỰ ĐỘNG (CLI)
+---------------------------------------------
+
+- Chạy gán nhãn tự động với model tùy chọn:
+
+    python auto_label_exp.py --model <tên_model> [--dataset <đường_dẫn_dataset>]
+
+  Ví dụ:
+    python auto_label_exp.py --model gemini-2.0-flash
+    python auto_label_exp.py --model claude-3.5-haiku
+    python auto_label_exp.py --model gpt-4o-mini
+
+- Kết quả sẽ in ra độ chính xác tổng thể và Micro F1-score.
+
+3. CHẠY THÍ NGHIỆM TÍNH CONFIDENCE (CLI)
+----------------------------------------
+
+- Chạy tính confidence cho các atomic fact, chỉ in ra các fact cần kiểm tra lại:
+
+    python confidence_exp.py --model <tên_model> [--dataset <đường_dẫn_dataset>]
+
+  Ví dụ:
+    python confidence_exp.py --model gemini-2.0-flash
+    python confidence_exp.py --model claude-3.5-haiku
+    python confidence_exp.py --model gpt-4o-mini
+
+- Kết quả sẽ in ra các atomic fact có confidence < 0.8 để review lại.
+
+4. CHẠY ỨNG DỤNG WEB (FASTAPI + FRONTEND)
+---------------------------------
+
+- Chạy backend FastAPI (phục vụ luôn cả giao diện web):
+
+    uvicorn main:app --reload
+
+- Truy cập giao diện web tại:
+
+    http://localhost:8000/
+
+- Các API chính:
+    - POST /label_fact
+    - POST /label_facts_with_confidence
+    - POST /split_atomic_facts
+
+5. LƯU Ý
+--------
+- Đảm bảo file .env đã cấu hình đúng các API key.
+- Dataset mặc định nằm trong thư mục Dataset/.
+- Nếu gặp lỗi về API key hoặc quota, kiểm tra lại .env và trạng thái tài khoản.
