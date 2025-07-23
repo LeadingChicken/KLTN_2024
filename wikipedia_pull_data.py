@@ -19,9 +19,3 @@ def get_wikipedia_summary(title):
             return page_content["extract"]
     return "Không tìm thấy thông tin."
 
-# # Gọi hàm
-# while True:
-#     entity = input();
-#     summary = get_wikipedia_summary(entity)
-#     print(summary)
-#     print("------------*******************------------")

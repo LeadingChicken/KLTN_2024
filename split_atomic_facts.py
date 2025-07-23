@@ -39,7 +39,7 @@ def split_into_atomic_facts(biography_text: str) -> List[str]:
 		McCoy đã chơi cho đội Jacksonville Jaguars.
 		McCoy đã chơi cho đội Jacksonville Jaguars trong sự nghiệp chuyên nghiệp của mình.
         
-        Hãy đưa ra format giống như ví dụ trên. Đừng thêm gạch hay chấm đầu dòng.
+        Hãy đưa ra format giống như ví dụ trên. Đừng thêm gạch hay chấm đầu dòng và đừng sửa thông tin.
         """)
     ]
     

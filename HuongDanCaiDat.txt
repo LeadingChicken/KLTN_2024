@@ -1,0 +1,27 @@
+HƯỚNG DẪN CÀI ĐẶT DỰ ÁN
+========================
+
+1. YÊU CẦU HỆ THỐNG
+-------------------
+- Hệ điều hành: Windows 10 hoặc mới hơn, hoặc Linux/MacOS
+- Python: Phiên bản 3.10 trở lên (khuyến nghị dùng Python 3.12)
+- Dung lượng ổ đĩa: Tối thiểu 2GB trống
+
+2. CÀI ĐẶT PYTHON
+-----------------
+- Tải Python tại: https://www.python.org/downloads/
+- Trong quá trình cài đặt, chọn "Add Python to PATH"
+
+3. CÀI ĐẶT CÁC THƯ VIỆN
+----------------------------------
+- Mở Terminal (CMD/PowerShell trên Windows, Terminal trên Mac/Linux)
+- Di chuyển đến thư mục mã nguồn:
+  cd <đường_dẫn_đến_mã_nguồn>
+- Cài đặt các thư viện cần thiết bằng lệnh:
+  pip install -r requirements.txt
+
+4. CẤU TRÚC DỰ ÁN
+------------------
+- requirements.txt: Danh sách các thư viện Python cần thiết
+- main.py, test.py: File chạy chính và file test
+- Dataset/, New Dataset/: Thư mục chứa dữ liệu mẫu

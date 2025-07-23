@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Phân tách và Gán nhãn Atomic Facts</title>
+    <style>
+      body {
+        font-family: 'Segoe UI', Arial, sans-serif;
+        margin: 0;
+        background: #f4f6fb;
+      }
+      .container {
+        max-width: 1600px;
+        margin: 40px auto;
+        background: #fff;
+        border-radius: 12px;
+        box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+        padding: 32px 36px;
+      }
+      h2 {
+        color: #2d3a4a;
+        margin-bottom: 18px;
+      }
+      label {
+        font-weight: 500;
+        color: #2d3a4a;
+      }
+      textarea {
+        width: 100%;
+        height: 120px;
+        font-size: 16px;
+        border-radius: 8px;
+        border: 1px solid #cfd8dc;
+        padding: 12px;
+        margin-top: 8px;
+        margin-bottom: 16px;
+        background: #f9fafb;
+        transition: border 0.2s;
+      }
+      textarea:focus {
+        border: 1.5px solid #1976d2;
+        outline: none;
+        background: #fff;
+      }
+      button {
+        padding: 12px 32px;
+        font-size: 16px;
+        background: linear-gradient(90deg, #1976d2 60%, #42a5f5 100%);
+        color: #fff;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        font-weight: 600;
+        box-shadow: 0 2px 8px rgba(25, 118, 210, 0.08);
+        transition: background 0.2s;
+      }
+      button:hover {
+        background: linear-gradient(90deg, #1565c0 60%, #1976d2 100%);
+      }
+      .loading {
+        color: #888;
+        margin-top: 10px;
+        font-size: 15px;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 30px;
+        background: #fff;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(44, 62, 80, 0.04);
+      }
+      th,
+      td {
+        border: 1px solid #e3eaf2;
+        padding: 10px 8px;
+        text-align: left;
+      }
+      th {
+        background: #f1f6fb;
+        color: #1976d2;
+        font-weight: 600;
+      }
+      tr:nth-child(even) {
+        background: #f7fafd;
+      }
+      td a {
+        color: #1976d2;
+        text-decoration: underline;
+        word-break: break-all;
+      }
+      .label-supported {
+        color: #2e7d32;
+        font-weight: 600;
+      }
+      .label-unsupported {
+        color: #d32f2f;
+        font-weight: 600;
+      }
+      .label-irrelevant {
+        color: #f57c00;
+        font-weight: 600;
+      }
+      .icon-correct {
+        color: #2e7d32;
+        font-weight: bold;
+      }
+      .icon-wrong {
+        color: #d32f2f;
+        font-weight: bold;
+      }
+      .filter-btn {
+        padding: 8px 16px;
+        margin-right: 8px;
+        font-size: 14px;
+        background: #f5f5f5;
+        color: #666;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        cursor: pointer;
+        transition: all 0.2s;
+      }
+      .filter-btn:hover {
+        background: #e0e0e0;
+      }
+      .filter-btn.active {
+        background: #1976d2;
+        color: white;
+        border-color: #1976d2;
+      }
+      /* Column widths */
+      table th:nth-child(1),
+      table td:nth-child(1) {
+        width: 25%;
+      } /* Atomic Fact */
+      table th:nth-child(2),
+      table td:nth-child(2) {
+        width: 20%;
+      } /* Label */
+      table th:nth-child(3),
+      table td:nth-child(3) {
+        width: 30%;
+      } /* Reasoning */
+      table th:nth-child(4),
+      table td:nth-child(4) {
+        width: 30%;
+      } /* Nguồn */
+      @media (max-width: 600px) {
+        .container {
+          padding: 12px 4vw;
+        }
+        table,
+        th,
+        td {
+          font-size: 13px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Phát hiện ảo giác trong tiểu sử nhân vật</h2>
+      <textarea id="bio" placeholder="Nhập tiểu sử..."></textarea><br />
+      <button onclick="processBiography()">Xử lí</button>
+      <div id="loading" class="loading"></div>
+      <div
+        id="confidenceNote"
+        style="
+          display: none;
+          margin-bottom: 12px;
+          color: #d32f2f;
+          font-weight: 500;
+        "
+      ></div>
+      <table id="factsTable" style="display: none">
+        <thead>
+          <tr>
+            <th>Atomic Fact</th>
+            <th>Label</th>
+            <th>Reasoning</th>
+            <th>Nguồn</th>
+            <th>Confidence</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <div
+        id="filterButtons"
+        style="display: none; margin-top: 20px; margin-bottom: 10px"
+      >
+        <button onclick="filterTable('all')" class="filter-btn active">
+          Tất cả
+        </button>
+        <button onclick="filterTable('Supported')" class="filter-btn">
+          Supported
+        </button>
+        <button onclick="filterTable('Unsupported')" class="filter-btn">
+          Unsupported
+        </button>
+        <button onclick="filterTable('Irrelevant')" class="filter-btn">
+          Irrelevant
+        </button>
+      </div>
+    </div>
+    <script>
+      async function processBiography() {
+        const bio = document.getElementById('bio').value.trim();
+        const loading = document.getElementById('loading');
+        const table = document.getElementById('factsTable');
+        const tbody = table.querySelector('tbody');
+        const filterButtons = document.getElementById('filterButtons');
+        const noteDiv = document.getElementById('confidenceNote');
+        tbody.innerHTML = '';
+        table.style.display = 'none';
+        filterButtons.style.display = 'none';
+        noteDiv.style.display = 'none';
+        noteDiv.textContent = '';
+        if (!bio) {
+          loading.textContent = 'Vui lòng nhập tiểu sử.';
+          return;
+        }
+        loading.textContent = 'Đang phân tách atomic facts...';
+        // Call new API for split + label + confidence
+        let results = [];
+        try {
+          const res = await fetch(
+            'http://localhost:8000/label_facts_with_confidence',
+            {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ biography_text: bio, character: '' }),
+            }
+          );
+          const data = await res.json();
+          results = data.results;
+        } catch (e) {
+          loading.textContent = 'Lỗi khi phân tích và gán nhãn.';
+          return;
+        }
+        if (!results.length) {
+          loading.textContent = 'Không tìm thấy atomic fact nào.';
+          return;
+        }
+        loading.textContent = 'Đang hiển thị kết quả...';
+        for (let i = 0; i < results.length; i++) {
+          const r = results[i];
+          const fact = r.atomic_fact;
+          const label = r.label;
+          const reasoning = r.reasoning;
+          const sources = r.sources || [];
+          const confidence = r.confidence;
+          let sourcesHtml = sources.length
+            ? `<div style='display:flex;flex-direction:column;gap:2px;'>` +
+              sources
+                .map(
+                  (src) =>
+                    `<a href=\"${src.url}\" target=\"_blank\">${src.title}</a>`
+                )
+                .join('') +
+              `</div>`
+            : '';
+          const labelClass = `label-${label.toLowerCase()}`;
+          const labelWithIcons = `<span class=\"${labelClass}\">${label}</span>`;
+          const confidenceDisplay =
+            typeof confidence === 'number'
+              ? (confidence * 100).toFixed(2) + '%'
+              : '';
+          // Mark logic
+          let mark = '';
+          if (typeof confidence === 'number') {
+            if (confidence >= 0.8) {
+              mark = ' <span style="color:#2e7d32;font-weight:bold;">✓</span>';
+            } else {
+              mark = ' <span style="color:#d32f2f;font-weight:bold;">✗</span>';
+            }
+          }
+          const row = document.createElement('tr');
+          row.innerHTML = `<td>${fact}</td><td>${labelWithIcons}</td><td>${reasoning}</td><td>${sourcesHtml}</td><td>${confidenceDisplay}${mark}</td>`;
+          tbody.appendChild(row);
+        }
+        table.style.display = '';
+        loading.textContent = '';
+        filterButtons.style.display = '';
+        // Show note and set progress bar to 100% after results
+        const hasLowConfidence = results.some(
+          (r) => typeof r.confidence === 'number' && r.confidence < 0.8
+        );
+        if (hasLowConfidence) {
+          noteDiv.style.display = '';
+          noteDiv.textContent =
+            'Lưu ý: Những atomic fact có dấu ✗ có độ tin cậy thấp (confidence < 0.8). Vui lòng kiểm tra lại các thông tin này.';
+        } else {
+          noteDiv.style.display = 'none';
+          noteDiv.textContent = '';
+        }
+      }
+      function filterTable(label) {
+        const rows = document.querySelectorAll('#factsTable tbody tr');
+        const filterBtns = document.querySelectorAll('.filter-btn');
+
+        // Update active button
+        filterBtns.forEach((btn) => btn.classList.remove('active'));
+        event.target.classList.add('active');
+
+        rows.forEach((row) => {
+          const labelCell = row.cells[1];
+          const labelText = labelCell.textContent || labelCell.innerText;
+
+          if (label === 'all' || labelText.includes(label)) {
+            row.style.display = '';
+          } else {
+            row.style.display = 'none';
+          }
+        });
+      }
+      // Helper: word overlap score
+      function wordOverlapScore(a, b) {
+        const wa = a.toLowerCase().split(/\W+/).filter(Boolean);
+        const wb = b.toLowerCase().split(/\W+/).filter(Boolean);
+        if (!wa.length || !wb.length) return 0;
+        let overlap = wa.filter((w) => wb.includes(w));
+        return overlap.length / Math.max(wa.length, wb.length);
+      }
+      // Helper: best matching phrase (longest common substring of 2+ words)
+      function bestMatchingPhrase(sentence, fact) {
+        const sWords = sentence.split(/\W+/);
+        const fWords = fact.split(/\W+/);
+        let best = '',
+          bestLen = 0;
+        for (let i = 0; i < sWords.length; i++) {
+          for (let j = i + 1; j <= sWords.length; j++) {
+            let phrase = sWords.slice(i, j).join(' ');
+            if (phrase.length < 3) continue;
+            let count = 0;
+            for (let k = 0; k < fWords.length; k++) {
+              if (phrase.toLowerCase().includes(fWords[k].toLowerCase()))
+                count++;
+            }
+            if (count > 1 && count > bestLen) {
+              best = phrase;
+              bestLen = count;
+            }
+          }
+        }
+        return best;
+      }
+      // Helper: escape HTML
+      function escapeHtml(text) {
+        return text.replace(/[&<>"']/g, function (m) {
+          return {
+            '&': '&amp;',
+            '<': '&lt;',
+            '>': '&gt;',
+            '"': '&quot;',
+            "'": '&#39;',
+          }[m];
+        });
+      }
+      // Helper: escape RegExp
+      function escapeRegExp(string) {
+        return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      }
+    </script>
+  </body>
+</html>
