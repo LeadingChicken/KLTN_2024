@@ -41,6 +41,7 @@ transformers>=4.30.0
 
 # Text processing
 scikit-learn>=1.3.0
+nltk>=3.8.0
 
 # JSON handling (built-in, but listed for clarity)
 # json - built-in module
